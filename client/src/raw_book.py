@@ -1,3 +1,5 @@
+import re
+
 """A book in it's raw state.
 
 This class is designed to take as input a raw book in the form of a .txt file,
@@ -14,8 +16,6 @@ Example:
             # Tidy up the book (remove data inconsistencies)
             book.tidy()
 """
-
-import re
 
 class RawBook:
 
@@ -49,9 +49,19 @@ class RawBook:
         self.data = re.sub(
             u'[\u00ab\u00bb\u201c\u201d\u201e\u201f\u300e\u300f]',
             '"', self.data)
+            
+        # Replace an emdash with a normal dash
+        self.data = re.sub(u'[\u2014]', '-', self.data)
         
-        # Remove special chars and double spaces
-        self.data = re.sub('[^A-Za-z0-9\s\.\\\'\"\?\,\;\:\n]+', '', self.data)
+        # Replace the horizontal ellipsis (...) with three periods
+        self.data = re.sub(u'[\u2026]', '...', self.data)
+        
+        # Remove special chars
+        self.data = re.sub(
+            '[^A-Za-z0-9\s\.\\\'\"\?\,\;\:\n\-]+', 
+            '', self.data)
+            
+        # Remove double spaces
         self.data = re.sub('[\s]{2,}', ' ', self.data)
         
     def save(self, filename='book.txt'):
