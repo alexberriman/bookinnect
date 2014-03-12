@@ -62,7 +62,7 @@ class RawBook:
             '', self.data)
             
         # Remove double spaces
-        self.data = re.sub('[\s]{2,}', ' ', self.data)
+        self.data = re.sub('[ ]{2,}', ' ', self.data)
         
     def save(self, filename='book.txt'):
         """ Save the book data to a file """
