@@ -43,11 +43,7 @@ class CoreNLPParser:
                 })
             
             # Parse the sentence
-            self.parse_sentence(sentence, xml_sentence.attrib['id'])
-            
-            #if xml_sentence.attrib['id'] == '10':
-            #    return
-        
+            self.parse_sentence(sentence, xml_sentence.attrib['id'])        
         
     def parse_sentence(self, sentence, sentence_number):
         """ Parse an individual sentence """
