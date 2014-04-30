@@ -10,14 +10,15 @@ class NameParser:
         self.names = names
         self.checked = []
         self.connection_matrix = []
+        self.parsed = []
     
     def parse(self):
         # Create the database in memory
-        db = sqlite3.connect(':memory:')
+        self.db = sqlite3.connect(':memory:')
 
         # Create the person table
-        cursor = db.cursor()
-        cursor.execute('CREATE TABLE person (person_id PRIMARY KEY, title TEXT, first_name TEXT, middle_name TEXT, last_name TEXT, suffix TEXT, occurrences INTEGER)');
+        cursor = self.db.cursor()
+        cursor.execute('CREATE TABLE person (person_id PRIMARY KEY, full_name TEXT, title TEXT, first_name TEXT, middle_name TEXT, last_name TEXT, suffix TEXT, occurrences INTEGER, sentences TEXT)');
 
         # Test if same person
         idx = 0
@@ -26,8 +27,16 @@ class NameParser:
             name = HumanName(character)
             
             # Insert the person
-            cursor.execute('INSERT INTO person(person_id, title, first_name, middle_name, last_name, suffix, occurrences) VALUES(?, ?, ?, ?, ?, ?, ?)', 
-                (idx, name.title.lower(), name.first.lower(), name.middle.lower(), name.last.lower(), name.suffix.lower(), self.names.get(character).get('occurrences')))
+            cursor.execute(
+                'INSERT INTO person(person_id, full_name, title, first_name, middle_name, last_name, suffix, occurrences, sentences) VALUES(?, ?, ?, ?, ?, ?, ?, ?, ?)', 
+                (
+                    idx, character, name.title.lower(), name.first.lower(), 
+                    name.middle.lower(), name.last.lower(), 
+                    name.suffix.lower(), 
+                    self.names.get(character).get('occurrences'), 
+                    ','.join([str(x) for x in self.names.get(character).get('sentences')])
+                )
+            )
 
         # Find similar names
         cursor.execute("""SELECT p1.person_id, p2.person_id
@@ -88,10 +97,37 @@ class NameParser:
             self.find_connections(person_id)
             
         # Commit changes
-        db.commit()
-
+        self.db.commit()
+        
+        # Collate the changes
+        self.collate()
+        
         # Close the db
-        db.close()
+        self.db.close()
+        
+    """
+    Collate the results
+    """
+    def collate(self):
+        cursor = self.db.cursor()
+        for connection in self.connection_matrix:
+            # Fetch the persons from the database
+            connection_ids = ','.join([str(x) for x in connection])
+            cursor.execute('SELECT * FROM person WHERE person_id IN (%s) ORDER BY occurrences DESC' % connection_ids)
+            
+            # Iterate through the persons objects
+            person_obj = {}
+            for person in cursor.fetchall():
+                # If object not set, set the main name
+                if 'name' not in person_obj:
+                    person_obj['name'] = person[1]
+                    person_obj['sentences'] = []
+                    
+                # Merge the sentences the characters are in
+                person_obj['sentences'] = list(set(person[8].split(',') + person_obj['sentences']))
+                    
+            self.parsed.append(person_obj)
+            
         
     """
     Finds connections between all of the people in the database
