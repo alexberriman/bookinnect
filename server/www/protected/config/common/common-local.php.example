@@ -1,0 +1,22 @@
+<?php
+
+/**
+ * Local main.config file. 
+ *
+ * Used to store local data relevant to the host machine (i.e. local db info,
+ * environment settings, development settings, etc.
+ *
+ * @author Alex Berriman <alex@ajberri.com>
+ */
+ 
+return [    
+    'components' => [
+        'db' => [
+			'connectionString'  =>  'mysql:host=;dbname=',
+			'emulatePrepare'  =>  true,
+			'username'  =>  '',
+			'password'  =>  '',
+			'charset'  =>  'utf8',
+		],
+    ],
+];
