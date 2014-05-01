@@ -6,4 +6,12 @@
  * @author Alex Berriman <alex@ajberri.com>
  */
  
-return [];
+return [
+    'components' => [
+        'db' => [
+			'emulatePrepare'  =>  true,
+			'charset'  =>  'utf8',
+            'tablePrefix' => '',
+		],
+    ],
+];

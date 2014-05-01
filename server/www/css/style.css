@@ -1,0 +1,449 @@
+/**
+ * CSS Reset
+ */
+html, body, div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+abbr, address, cite, code,
+del, dfn, em, img, ins, kbd, q, samp,
+small, strong, sub, sup, var,
+b, i,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section, summary,
+time, mark, audio, video {
+    margin:0;
+    padding:0;
+    border:0;
+    outline:0;
+    font-size:100%;
+    vertical-align:baseline;
+    background:transparent;
+}
+
+body {
+    line-height:1;
+}
+input[type=text], input[type=password], textarea {
+    border: 0;
+}
+article,aside,details,figcaption,figure,
+footer,header,hgroup,menu,nav,section { 
+    display:block;
+}
+
+nav ul {
+    list-style:none;
+}
+
+blockquote, q {
+    quotes:none;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content:'';
+    content:none;
+}
+
+a {
+    margin:0;
+    padding:0;
+    font-size:100%;
+    vertical-align:baseline;
+    background:transparent;
+}
+
+/* change colours to suit your needs */
+ins {
+    background-color:#ff9;
+    color:#000;
+    text-decoration:none;
+}
+
+/* change colours to suit your needs */
+mark {
+    background-color:#ff9;
+    color:#000; 
+    font-style:italic;
+    font-weight:bold;
+}
+
+del {
+    text-decoration: line-through;
+}
+
+abbr[title], dfn[title] {
+    border-bottom:1px dotted;
+    cursor:help;
+}
+
+table {
+    border-collapse:collapse;
+    border-spacing:0;
+}
+
+/* change border colour to suit your needs */
+hr {
+    display:block;
+    height:1px;
+    border:0;   
+    border-top:1px solid #cccccc;
+    margin:1em 0;
+    padding:0;
+}
+
+input, select {
+    vertical-align:middle;
+}
+
+ol, ul {
+    list-style: none;
+}
+
+/**
+ * Main CSS styling
+ */
+
+body {
+    color: rgb(119, 119, 119);
+    line-height: 18px;
+    width: 100%;
+    font-family: arial;
+    font-size: 12px;
+}
+a {
+    color: rgb(40, 119, 174);
+    text-decoration: none;
+}
+.clearfix:after,.clear:after,blockquote:after{
+    content: ".";
+    display: block;
+    height: 0;
+    overflow: hidden;
+    clear: both;
+    visibility: hidden;
+}
+#page {
+    margin: 0px auto;
+}
+#tagLineHolder {
+    background: rgb(246, 246, 246);
+    font-size: 11px;
+    padding: 7px 0px;
+}
+.defaultContentWidth {
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+}
+.left {
+    float: left;
+}
+#tagLineHolder .info {
+    color: rgb(68, 68, 68);
+    line-height: 24px;
+    padding-left: 25px;
+}
+.right {
+    float: right;
+}
+ul.social-icons {
+    padding-right: 25px;
+}
+.social-icons li {
+    line-height: 0;
+    margin-left: 10px;
+}
+.social-icons li a {
+    display: inline-block;
+    line-height: 0;
+}
+#branding {
+    background: url(http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/header-bg_pattern.png) repeat #fff;
+    box-shadow: rgba(0, 0, 0, 0.0980392) 0px 1px 0px;
+    position: relative;
+    z-index: 1;
+}
+#logo {
+    padding: 35px 0px 35px 25px;
+}
+#access {
+    display: block;
+    float: right;
+    margin: 38px 25px 38px 0px;
+    max-width: 700px;
+}
+.assistive-text {
+    clip: rect(1px 1px 1px 1px);
+    position: absolute;
+}
+#access ul {
+    font-size: 15px;
+    list-style: none;
+    margin: 0px;
+}
+#access li {
+    float: left;
+    position: relative;
+}
+.mainmenu > ul > li {
+    margin-left: 10px;
+}
+.mainmenu > ul > li > a {
+    font-family: Oswald;
+    font-size: 15px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
+#access a {
+    color: rgb(51, 51, 51);
+    display: block;
+    margin: 5px 0px 5px 20px;
+    padding-bottom: 1px;
+}
+#access ul > li > a.has-submenu {
+    background: url(http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/has-submenu-down.png) 100% 50% no-repeat;
+    padding-right: 15px;
+}
+#access ul ul {
+    -webkit-box-shadow: rgba(0, 0, 0, 0.14902) 0px 0px 0px 1px;
+    box-shadow: rgba(0, 0, 0, 0.14902) 0px 0px 0px 1px;
+    display: none;
+    margin: 0px;
+    position: absolute;
+    left: 20px;
+    width: 188px;
+    z-index: 99999;
+    top: 26px;
+}
+#access .sub-menu li {
+    background: rgb(255, 255, 255);
+}
+#access li:hover > a {
+    color: #73ac4b;
+    cursor: pointer;
+    text-decoration: underline;
+}
+#access ul ul a {
+    border-bottom: 1px solid rgb(238, 238, 238);
+    color: rgb(68, 68, 68);
+    font-size: 13px;
+    font-weight: normal;
+    height: auto;
+    width: 168px;
+}
+#access .sub-menu a {
+    margin: 0px 10px;
+    padding: 9px 0px;
+}
+#access .sub-menu a:hover {
+    color: #000;
+    text-decoration: none;
+}
+#access .sub-menu li:hover {
+    background: #f2f8fc;
+}
+.responsive-menu {
+    display: none;
+}
+select {
+    -webkit-appearance: menulist;
+    box-sizing: border-box;
+    align-items: center;
+    border: 1px solid;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    white-space: pre;
+    -webkit-rtl-ordering: logical;
+    color: black;
+    background-color: white;
+    cursor: default;
+}
+.mainmenu > ul > li > a {
+    font-family: Oswald;
+    font-size: 15px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
+#access a {
+    color: rgb(51, 51, 51);
+    display: block;
+    margin: 5px 0px 5px 20px;
+    padding-bottom: 1px;
+}
+#access ul > li > a.has-submenu {
+    background: url('http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/has-submenu-down.png') no-repeat right center;
+    padding-right: 15px;
+}
+#access li:hover ul {
+    display: block;
+}
+#directory-search {
+    background: #308ecf url('http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/search_bg_pattern.png') repeat;
+    border-top: 1px solid #1e5b85;
+    border-bottom: 1px solid #1e5b85;
+    border-top: 1px solid #0a5c93;
+    box-shadow: 0 1px 0 rgba(255,255,255,0.1) inset,0 -33px 16px -10px rgba(0,0,0,0.05) inset,0 33px 18px -10px rgba(250,250,250,0.1) inset,0 -10px 1px -10px rgba(0,0,0,0.3) inset;
+}
+#directory-search .defaultContentWidth {
+    width: 1000px;
+}
+#dir-search-inputs {
+    float: left;
+    padding: 20px 25px;
+    width: 639px;
+}
+#dir-holder {
+    background: #ffffff;
+    border: 1px solid #1e5b85;
+    border-radius: 40px;
+    box-shadow: 0 1px 0 #cccccc inset,0 2px 0 -1px #3892d1;
+    padding-right: 40px;
+    position: relative;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 100%;
+}
+.dir-holder-wrap {
+    width: 100%;
+}
+#dir-holder input#dir-searchinput-text {
+    float: left;
+}
+#dir-holder input {
+    display: block;
+    background: url('http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/search_input-loupe.png') no-repeat 13px center;
+    font-size: 13px;
+    height: 35px;
+    line-height: 1;
+    padding: 0 10px 0 50px;
+    vertical-align: top;
+    position: relative;
+    width: 520px;
+    max-width: 520px;
+    border: medium none;
+}
+#dir-search-button {
+    background: rgba(255,255,255,0.1);
+    float: left;
+    padding: 20px 25px;
+    width: 260px;
+}
+#dir-search-button input{
+    background:#73ac4b url('http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/search_button-loupe.png') no-repeat 92px center;
+    background:-moz-linear-gradient(#73ac4b,#6ca146) url('http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/search_button-loupe.png') no-repeat 92px center;
+    background:-o-linear-gradient(#73ac4b,#6ca146) url('http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/search_button-loupe.png') no-repeat 92px center;
+    background:-webkit-gradient(linear,0% 0%,0% 100%,from(#73ac4b),to(#6ca146)) url('http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/search_button-loupe.png') no-repeat 92px center;
+    background:-webkit-linear-gradient(#73ac4b,#6ca146) url('http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/search_button-loupe.png') no-repeat 92px center;
+    border:1px solid #5b883c;
+    box-shadow:0 1px 0 #88bc64 inset,0 1px 0 #46692e;
+    border-radius:40px;
+    color:#ffffff;
+    display:inline-block;
+    font-family:'Oswald';
+    font-size:15px;
+    padding:5px 8px 5px 32px;
+    text-shadow:1px 1px 0 #527a35;
+    text-decoration:none;
+    text-transform:uppercase;
+    width:261px;
+}
+#dir-search-button input:hover{
+    background:#6ca146 url('http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/search_button-loupe.png') no-repeat 92px center;
+    background:-moz-linear-gradient(#73ac4b,#60903f) url('http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/search_button-loupe.png') no-repeat 92px center;
+    background:-o-linear-gradient(#73ac4b,#60903f) url('http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/search_button-loupe.png') no-repeat 92px center;
+    background:-webkit-gradient(linear,0% 0%,0% 100%,from(#73ac4b),to(#60903f)) url('http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/search_button-loupe.png') no-repeat 92px center;
+    background:-webkit-linear-gradient(#73ac4b,#60903f) url('http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/search_button-loupe.png') no-repeat 92px center;
+    border:1px solid #5b883c;
+    box-shadow:0 1px 0 #96c376 inset,0 1px 0 #3a5726;
+    cursor:pointer;
+}
+#main {
+    background: #ffffff;
+    display: table;
+}
+#wrapper-row {
+    display: table-row;
+}
+#primary {
+    display: table-cell;
+    vertical-align: top;
+}
+#content {
+    padding: 50px 25px 0;
+    width: 639px;
+}
+#secondary {
+    background: #f7f7f7;
+    display: table-cell;
+    padding: 55px 25px 0;
+    vertical-align: top;
+    width: 260px;
+}
+.widget-area {
+    margin: 0 25px;
+}
+aside.widget {
+    padding-bottom: 30px;
+    clear: both;
+}
+aside.widget_search form#searchform > div {
+    background: #ffffff;
+    border: 1px solid #cfcfcf;
+    box-shadow: 0 2px 1px rgba(0,0,0,0.1) inset;
+}
+#searchform label {
+    display: none;
+    width: 80px;
+    float: left;
+}
+#searchform #s, #search-form .s {
+    color: #555555;
+    display: block;
+    float: left;
+    font-size: 12px;
+    height: 20px;
+    line-height: 20px;
+    padding: 5px 10px;
+    width: 203px;
+}
+input#s {
+    background: none;
+}
+#searchform #searchsubmit, #search-form .searchsubmit {
+    background: url('http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/search.png') center no-repeat;
+    border-left: 1px solid #cfcfcf;
+    border-width: 0 0 0 1px;
+    cursor: pointer;
+    display: block;
+    font-size: 0;
+    height: 16px;
+    margin: 7px 0;
+    text-indent: -9999px;
+    width: 35px;
+}
+#main h1 {
+    font-family: 'Oswald';
+    font-size: 26px;
+    font-weight: bold;
+    background: url('http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/title-striped-bg.png') repeat-x 0 15px;
+    line-height: 40px;
+    margin: 0 0 10px 0;
+    text-align: center;
+    text-transform: uppercase;
+    color: #222;
+}
+#main h1 span {
+    background: #fff;
+    padding: 0 20px;
+}
+#main p {
+    padding: 10px 0 10px;
+}

@@ -12,11 +12,9 @@
 return [    
     'components' => [
         'db' => [
-			'connectionString'  =>  'mysql:host=;dbname=',
-			'emulatePrepare'  =>  true,
-			'username'  =>  '',
+			'connectionString'  =>  'mysql:host=localhost;dbname=',
+			'username'  =>  'root',
 			'password'  =>  '',
-			'charset'  =>  'utf8',
 		],
     ],
 ];
