@@ -1,13 +1,12 @@
 Bookinnect
 ==========
-Mines for character connections within books and displays the imfornation
-graphically via a web interface. 
+Mines for character connections within books and displays the infornation graphically via a web interface. 
 
 ## Requirements
-### Client data mining tool
+#### Client data mining tool
 * Java (version tbd)
 
-### Web interface
+#### Web interface
 * PHP 5.4+
 * MySQL (version tbd)
 * Apache (w/ mod_rewrite)
