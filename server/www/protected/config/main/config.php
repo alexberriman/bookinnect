@@ -17,6 +17,7 @@ return [
 	'import' => [
 		'application.models.*',
 		'application.components.*',
+        'ext.giix-components.*',
 	],
     
 	// application components
