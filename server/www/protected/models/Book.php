@@ -38,7 +38,15 @@ class Book extends BaseBook
     }
     
     /**
-     * Thumbnail
+     * Reads the standard thumbnail in the database, converts it to a different
+     * size and returns the path.
+     *
+     * @param $width
+     *  The width the thumbnail should be resized to.
+     * @param $height
+     *  The height the thumbnail should be resized to.
+     * @return
+     *  The URI to the resized thumbnail.
      */
     public function getThumbnail($width=112, $height=140)
     {
@@ -70,5 +78,21 @@ class Book extends BaseBook
         }
         
         return '';
+    }
+    
+    /**
+     * Returns the connections mined from the book.
+     */
+    public function getConnections()
+    {
+        // If no valid xml, return nothing
+        if ($this->connections_xml === null || $this->connections_xml === '')
+        {
+            return [];
+        }
+        
+        // Load the xml and process
+        $xml = simplexml_load_string($this->connections_xml);
+        var_dump($xml);
     }
 }

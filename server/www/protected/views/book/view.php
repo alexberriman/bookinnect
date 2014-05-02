@@ -30,3 +30,5 @@ $this->breadcrumbs = [
 </div>
 
 <hr>
+
+<?php print $book->getConnections() ?>
