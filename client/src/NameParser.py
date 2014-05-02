@@ -91,7 +91,7 @@ class NameParser:
             self.connections.append([row[0], row[1]])
             
         # Group all of the people
-        cursor.execute("SELECT person_id FROM person ORDER BY person_id ASC")
+        cursor.execute("SELECT person_id FROM person ORDER BY occurrences DESC")
         for person in cursor.fetchall():
             person_id = person[0]
             self.find_connections(person_id)

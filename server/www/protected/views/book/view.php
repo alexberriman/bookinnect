@@ -31,4 +31,24 @@ $this->breadcrumbs = [
 
 <hr>
 
-<?php print $book->getConnections() ?>
+<div class="item-info">
+    <div class="characters left-icon-col">
+        <dt class="title"><h4>Characters</h4></dt>
+        <table class="blue">
+            <thead>
+                <tr>
+                    <th>Character name</th>
+                    <th>Occurrences</th>
+                </tr>
+            </thead>
+            <tbody>
+                <?php foreach ($book->getConnections() as $character): ?>
+                    <tr>
+                        <td><?php print CHtml::encode($character['name']) ?></td>
+                        <td><?php print number_format($character['occurrences']) ?></td>
+                    </tr>
+                <?php endforeach; ?>
+            </tbody>
+        </table>
+    </div>
+</div>

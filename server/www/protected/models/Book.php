@@ -89,10 +89,31 @@ class Book extends BaseBook
         if ($this->connections_xml === null || $this->connections_xml === '')
         {
             return [];
-        }
+        } else $characters = [];
         
         // Load the xml and process
         $xml = simplexml_load_string($this->connections_xml);
-        var_dump($xml);
+        foreach ($xml->item as $character)
+        {
+            // Character details
+            $char = [
+                'name' => (string) $character->name,
+                'occurrences' => intval((string)$character->occurrences),
+                'connections' => [],
+            ];
+            
+            // Add the character connections
+            if (isset($character->connections->item))
+            {
+                foreach ($character->connections->item as $connection)
+                {
+                    $char['connection'][] = (string) $connection;
+                }
+            }
+            
+            $characters[(string) $character->name] = $char;
+        }
+        
+        return $characters;
     }
 }

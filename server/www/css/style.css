@@ -532,3 +532,49 @@ hr {
 .entry-content {
     padding: 0 0 20px;
 }
+#main h4 {
+    font-size: 16px;
+    margin: 0 0 10px 0;
+    font-weight: normal;
+}
+.item-info h4 {
+    border-bottom: 1px dotted #cfcfcf;
+    padding-bottom: 10px;
+}
+.left-icon-col {
+    padding: 0 0 20px 50px;
+}
+.characters {
+    background: url('http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/item-icon-adress.png') no-repeat;
+}
+table.blue {
+    background: rgb(245, 245, 245);
+    border-collapse: separate;
+    border-spacing: 2px;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 0px 1px;
+    -webkit-box-shadow: rgba(0, 0, 0, 0.4) 0px 0px 1px;
+    line-height: 20px;
+    margin-bottom: 20px;
+    padding: 2px;
+    width: 100%;
+}
+table.blue thead th {
+    font-family: Oswald;
+    font-size: 12px;
+    font-weight: normal;
+    padding: 2px 6px;
+    background: #308ecf;
+    text-shadow: rgb(79, 119, 52) 1px 1px 0px;
+    color: rgb(255, 255, 255);
+    line-height: 30px;
+}
+table.blue tbody th {
+    font-weight: bold;
+    padding: 2px 6px;
+    background: url(http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/bck_00-10.png);
+    color: rgb(34, 34, 34);
+}
+table.blue td {
+    padding: 2px 6px;
+    background: url(http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/bck_00-05.png);
+}
