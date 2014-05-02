@@ -70,7 +70,7 @@ Yii::app()->clientScript->registerScriptFile(Yii::app()->request->baseUrl . '/js
 
 <div class="item-info">
     <div class="characters left-icon-col">
-        <dt class="title"><h4>Entity Connections</h4></dt>
+        <dt class="title"><h4>Entity Connections <?php print CHtml::link(Yii::t('app', '(view large)'), ['book/diagram', 'id' => $book->id], ['target' => '_blank']) ?></h4></dt>
         <div id="entity-connections"></div>
     </div>
 </div>
