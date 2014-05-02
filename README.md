@@ -10,3 +10,4 @@ Mines for character connections within books and displays the infornation graphi
 * PHP 5.4+
 * MySQL (version tbd)
 * Apache (w/ mod_rewrite)
+* GD2
