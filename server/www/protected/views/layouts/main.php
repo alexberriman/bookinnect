@@ -16,12 +16,9 @@
         <div class="topbar clearfix">
             <div id="tagLineHolder">
                 <div class="defaultContentWidth clearfix">
-                    <p class="left info">+044 802 52578  directory@mail.com</p>
+                    <p class="left info">University of Technology, Sydney - Analytics Capstone B - Alex Berriman (11012313)</p>
                     <ul class="social-icons right clearfix">
-                        <li class="left"><a href="#"><img src="http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/social-icons/facebook-ff.png" height="24" width="24" alt="Facebook" title="Facebook" /></a></li>
-                        <li class="left"><a href="#"><img src="http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/social-icons/youtube-ff.png" height="24" width="24" alt="Whatch us on Youtube." title="Whatch us on Youtube." /></a></li>
-                        <li class="left"><a href="#"><img src="http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/social-icons/twitter-ff.png" height="24" width="24" alt="Follow us on Twitter" title="Follow us on Twitter" /></a></li>
-                        <li class="left"><a href="#"><img src="http://preview.ait-themes.com/directory/wp1/wp-content/uploads/dribbble-ff.png" height="24" width="24" alt="Dribbble" title="Dribbble" /></a></li>
+                        <li class="left"><a href="https://github.com/alexberriman/bookinnect" target="_blank"><img src="http://os.alfajango.com/images/github-icon.png" height="24" width="24" alt="Github" title="Github" /></a></li>
                     </ul>
                 </div>
             </div>
@@ -30,8 +27,8 @@
         <header id="branding" role="banner">
             <div class="defaultContentWidth clearfix">
                 <div id="logo" class="left">
-                    <a class="trademark" href="#">
-                        <img src="http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/logo.png" alt="logo" />
+                    <a class="trademark" href="<?php print Yii::app()->controller->createUrl('site/index') ?>">
+                        <img src="/images/logo.png" alt="logo" />
                     </a>
                 </div>
                 <nav id="access" role="navigation">
