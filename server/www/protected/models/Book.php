@@ -107,7 +107,7 @@ class Book extends BaseBook
             {
                 foreach ($character->connections->item as $connection)
                 {
-                    $char['connection'][] = (string) $connection;
+                    $char['connections'][] = (string) $connection;
                 }
             }
             

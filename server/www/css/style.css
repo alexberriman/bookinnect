@@ -578,3 +578,9 @@ table.blue td {
     padding: 2px 6px;
     background: url(http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/bck_00-05.png);
 }
+#entity-connections {
+    width: 589px;
+    height: 400px;
+    border: 1px solid #ddd;
+    margin-bottom: 30px;
+}

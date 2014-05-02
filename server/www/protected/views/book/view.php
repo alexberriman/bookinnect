@@ -4,6 +4,10 @@ $this->breadcrumbs = [
     $book->genre0->name => ['genre/view', 'id' => $book->genre],
     $book->name,    
 ];
+
+// Register sigma.js files
+Yii::app()->clientScript->registerScriptFile(Yii::app()->request->baseUrl . '/js/sigmajs/sigma.min.js');
+Yii::app()->clientScript->registerScriptFile(Yii::app()->request->baseUrl . '/js/sigmajs/plugins/sigma.parsers.json.min.js');
 ?>
 
 <h1><span><?php print CHtml::encode($book->name) ?></span></h1>
@@ -33,7 +37,7 @@ $this->breadcrumbs = [
 
 <div class="item-info">
     <div class="characters left-icon-col">
-        <dt class="title"><h4>Characters</h4></dt>
+        <dt class="title"><h4>Character Entities</h4></dt>
         <table class="blue">
             <thead>
                 <tr>
@@ -50,5 +54,23 @@ $this->breadcrumbs = [
                 <?php endforeach; ?>
             </tbody>
         </table>
+    </div>
+</div>
+
+<hr>
+
+<script type="text/javascript">
+  sigma.parsers.json('<?php print Yii::app()->request->baseUrl ?>/book/json/<?php print (int) $book->id ?>', {
+    container: 'entity-connections',
+    settings: {
+      defaultNodeColor: '#308ecf'
+    }
+  });
+</script>
+
+<div class="item-info">
+    <div class="characters left-icon-col">
+        <dt class="title"><h4>Entity Connections</h4></dt>
+        <div id="entity-connections"></div>
     </div>
 </div>

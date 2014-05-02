@@ -25,4 +25,22 @@ class BookController extends Controller
             'book' => $book,
         ]);
     }
+    
+    /**
+     * View json data
+     */
+    public function actionJson($id)
+    {
+        // Load the book and make sure it exists
+        if (($book = Book::model()->findByPk($id)) === null)
+        {
+            throw new CHttpException(404, Yii::t('app', 
+                'The requested book could not be found.'));
+        }
+        
+        // Render the view
+        $this->renderPartial('json', [
+            'book' => $book,
+        ]);
+    }
 }
