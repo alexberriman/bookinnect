@@ -16,6 +16,7 @@
  * @property string $date_published
  * @property integer $genre
  * @property string $cover_img
+ * @property string $connections_xml
  *
  * @property Author $author0
  * @property Genre $genre0
@@ -44,9 +45,9 @@ abstract class BaseBook extends GxActiveRecord {
 			array('name', 'required'),
 			array('author, word_count, genre', 'numerical', 'integerOnly'=>true),
 			array('name, cover_img', 'length', 'max'=>255),
-			array('date_published', 'safe'),
-			array('author, word_count, date_published, genre, cover_img', 'default', 'setOnEmpty' => true, 'value' => null),
-			array('id, name, author, word_count, date_published, genre, cover_img', 'safe', 'on'=>'search'),
+			array('date_published, connections_xml', 'safe'),
+			array('author, word_count, date_published, genre, cover_img, connections_xml', 'default', 'setOnEmpty' => true, 'value' => null),
+			array('id, name, author, word_count, date_published, genre, cover_img, connections_xml', 'safe', 'on'=>'search'),
 		);
 	}
 
@@ -73,6 +74,7 @@ abstract class BaseBook extends GxActiveRecord {
 			'date_published' => Yii::t('app', 'Date Published'),
 			'genre' => null,
 			'cover_img' => Yii::t('app', 'Cover Img'),
+			'connections_xml' => Yii::t('app', 'Connections Xml'),
 			'author0' => null,
 			'genre0' => null,
 			'series' => null,
@@ -89,6 +91,7 @@ abstract class BaseBook extends GxActiveRecord {
 		$criteria->compare('date_published', $this->date_published, true);
 		$criteria->compare('genre', $this->genre);
 		$criteria->compare('cover_img', $this->cover_img, true);
+		$criteria->compare('connections_xml', $this->connections_xml, true);
 
 		return new CActiveDataProvider($this, array(
 			'criteria' => $criteria,
