@@ -8,6 +8,16 @@ $this->breadcrumbs = [
 // Register sigma.js files
 Yii::app()->clientScript->registerScriptFile(Yii::app()->request->baseUrl . '/js/sigmajs/sigma.min.js');
 Yii::app()->clientScript->registerScriptFile(Yii::app()->request->baseUrl . '/js/sigmajs/plugins/sigma.parsers.json.min.js');
+
+// Fancybox popup dialog
+$this->widget('application.extensions.fancybox.EFancyBox', [
+    'target' => '.popup',
+    'config' => [
+        'width' => '35%',
+        'autoScale' => true,
+        'type' => 'iframe',
+    ],
+]);
 ?>
 
 <h1><span><?php print CHtml::encode($book->name) ?></span></h1>
@@ -48,7 +58,7 @@ Yii::app()->clientScript->registerScriptFile(Yii::app()->request->baseUrl . '/js
             <tbody>
                 <?php foreach ($book->getConnections() as $character): ?>
                     <tr>
-                        <td><?php print CHtml::encode($character['name']) ?></td>
+                        <td><?php print CHtml::link(CHtml::encode($character['name']), ['book/character', 'id' => $book->id, 'character' => urlencode(CHtml::encode($character['name']))], ['class' => 'popup']) ?></td>
                         <td><?php print number_format($character['occurrences']) ?></td>
                     </tr>
                 <?php endforeach; ?>

@@ -61,4 +61,36 @@ class BookController extends Controller
             'book' => $book,
         ]);
     }
+    
+    /**
+     * View character data
+     */
+    public function actionCharacter($id, $character)
+    {
+        // Load the book and make sure it exists
+        if (($book = Book::model()->findByPk($id)) === null)
+        {
+            throw new CHttpException(404, Yii::t('app', 
+                'The requested book could not be found.'));
+        }
+        
+        // Get the character info
+        $characterName = urldecode($character);
+        $characters = $book->getConnections();
+        
+        // Check to make sure the character exists
+        if (! isset($characters[$characterName]))
+        {
+            throw new CHttpException(404, Yii::t('app', 
+                'The requested character could not be found.'));
+        }
+        
+        $character = $characters[$characterName];
+        
+        // Render the view
+        $this->render('character_info', [
+            'book' => $book,
+            'character' => $character,
+        ]);
+    }
 }
