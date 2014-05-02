@@ -125,6 +125,9 @@ a {
     clear: both;
     visibility: hidden;
 }
+.clear {
+    clear: both;
+}
 #page {
     margin: 0px auto;
 }
@@ -446,4 +449,35 @@ input#s {
 }
 #main p {
     padding: 10px 0 10px;
+}
+ul.items {
+    list-style: none;
+    margin: 0px;
+}
+ul.items li {
+    margin-bottom: 30px;
+}
+.items .thumbnail, .item-image {
+    display: inline-block;
+    float: left;
+    margin-right: 20px;
+    position: relative;
+}
+.items .thumbnail img, .item-image img {
+    background: rgb(207, 207, 207);
+    border: 1px solid rgb(182, 182, 182);
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    padding: 5px;
+}
+.items .description {
+    width: 100%;
+}
+#main h3 {
+    font-size: 18px;
+    margin: 0px 0px 10px;
+    font-weight: bold;
 }
