@@ -5,6 +5,8 @@ Mines for character connections within books and displays the infornation graphi
 ## Requirements
 #### Client data mining tool
 * Java (version tbd)
+* Python
+* dicttoxml (https://pypi.python.org/pypi/dicttoxml/1.3.1)
 
 #### Web interface
 * PHP 5.4+
