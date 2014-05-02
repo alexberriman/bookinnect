@@ -1,8 +1,12 @@
 <?php /* @genre */ 
-$this->pageTitle = $genre->name;
+$this->pageTitle = $genre->name . ' - ' . Yii::app()->name;
+$this->breadcrumbs = [
+	CHtml::encode($genre->name),
+];
 ?>
 
 <h1><span><?php print CHtml::encode($genre->name) ?></span></h1>
+<?php $this->widget('zii.widgets.CBreadcrumbs', ['links' => $this->breadcrumbs]) ?>
 
 <ul class="items">
     <?php foreach ($books as $book): ?>

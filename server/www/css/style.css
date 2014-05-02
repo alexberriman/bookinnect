@@ -481,3 +481,8 @@ ul.items li {
     margin: 0px 0px 10px;
     font-weight: bold;
 }
+.breadcrumbs {
+    margin-top: -10px;
+    margin-bottom: 20px;
+    text-align: center;
+}
