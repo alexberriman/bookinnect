@@ -44,8 +44,9 @@
                             <li>
                                 <a href="/genre" class="has-submenu">Genres</a>
                                 <ul class="sub-menu">
-                                    <li><a href="#">Blank Header</a></li>
-                                    <li><a href="#">Header with Map</a></li>
+                                    <?php foreach (Genre::model()->root()->alphabetical()->findAll() as $genre): ?>
+                                        <li><?php print CHtml::link(CHtml::encode($genre->name), array('genre/view', 'id' => $genre->id)) ?></li>
+                                    <?php endforeach; ?>
                                 </ul>
                             </li>
                         </ul>
