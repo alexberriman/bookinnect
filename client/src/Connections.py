@@ -56,7 +56,7 @@ class Connections:
                     # Calculate the relationship strength (amount of connections (weighted) * average(character weighting))
                     strength = connection['strength']
                     new_strength = round(float(strength) / float(self.largest_connection), 8)
-                    self.connections[idx]['connections'][connection_idx]['strength'] = new_strength
+                    self.connections[idx]['connections'][connection_idx]['strength'] = average_weighting
             finally:
                 pass
                 
