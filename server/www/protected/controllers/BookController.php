@@ -93,4 +93,19 @@ class BookController extends Controller
             'character' => $character,
         ]);
     }
+    
+    /**
+     * MCL test
+     */
+    public function actionMcl($id)
+    {
+        // Load the book and make sure it exists
+        if (($book = Book::model()->findByPk($id)) === null)
+        {
+            throw new CHttpException(404, Yii::t('app', 
+                'The requested book could not be found.'));
+        }
+        
+        $this->renderPartial('mcl', ['book' => $book]);
+    }
 }

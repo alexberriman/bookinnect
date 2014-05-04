@@ -95,10 +95,16 @@ class Book extends BaseBook
         $xml = simplexml_load_string($this->connections_xml);
         foreach ($xml->item as $character)
         {
+            $springCoordinates = $character->spring_coordinates;
+
             // Character details
             $char = [
                 'name' => (string) $character->name,
                 'occurrences' => intval((string)$character->occurrences),
+                'spring_coordinates' => [
+                    (float) $springCoordinates->item[0],
+                    (float) $springCoordinates->item[1],
+                ],
                 'connections' => [],
             ];
             
@@ -107,7 +113,10 @@ class Book extends BaseBook
             {
                 foreach ($character->connections->item as $connection)
                 {
-                    $char['connections'][] = (string) $connection;
+                    $char['connections'][] = [
+                        'name' => (string) $connection->name,
+                        'strength' => (float) $connection->strength,
+                    ];
                 }
             }
             

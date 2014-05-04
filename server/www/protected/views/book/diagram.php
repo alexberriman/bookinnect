@@ -13,7 +13,16 @@ $this->layout = 'fullscreen';
   sigma.parsers.json('<?php print Yii::app()->request->baseUrl ?>/book/json/<?php print (int) $book->id ?>', {
     container: 'entity-connections-large',
     settings: {
-      defaultNodeColor: '#308ecf'
+      defaultNodeColor: '#308ecf',
+      defaultNodeHoverColor: '#000',
+      defaultEdgeColor: '#999',
+      defaultNodeBorderColor: '#fff',
+      labelHoverShadowColor: '#fff',
+      defaultHoverLabelBGColor: '#eee',
+      edgeColor: 'source',
+      borderSize: 2,
+      minNodeSize: 4,
+      maxNodeSize: 18
     }
   });
 </script>

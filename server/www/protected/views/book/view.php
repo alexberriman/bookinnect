@@ -10,6 +10,7 @@ Yii::app()->clientScript->registerScriptFile(Yii::app()->request->baseUrl . '/js
 Yii::app()->clientScript->registerScriptFile(Yii::app()->request->baseUrl . '/js/sigmajs/plugins/sigma.parsers.json.min.js');
 
 // Fancybox popup dialog
+/**
 $this->widget('application.extensions.fancybox.EFancyBox', [
     'target' => '.popup',
     'config' => [
@@ -18,6 +19,7 @@ $this->widget('application.extensions.fancybox.EFancyBox', [
         'type' => 'iframe',
     ],
 ]);
+*/
 
 // Html purifier
 $purifier = new CHtmlPurifier();
@@ -83,7 +85,15 @@ $purifier->options = [
   sigma.parsers.json('<?php print Yii::app()->request->baseUrl ?>/book/json/<?php print (int) $book->id ?>', {
     container: 'entity-connections',
     settings: {
-      defaultNodeColor: '#308ecf'
+      defaultNodeColor: '#308ecf',
+      defaultEdgeColor: '#999',
+      edgeColor: 'default',
+      defaultNodeBorderColor: '#fff',
+      borderSize: 2,
+      labelHoverShadowColor: '#fff',
+      defaultHoverLabelBGColor: '#eee',
+      minNodeSize: 4,
+      maxNodeSize: 12
     }
   });
 </script>

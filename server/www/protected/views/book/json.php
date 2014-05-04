@@ -1,4 +1,6 @@
 <?php
+$colors = ['d01f3c'];
+
 $edges = '';
 foreach ($book->getConnections() as $character)
 {
@@ -8,7 +10,7 @@ foreach ($book->getConnections() as $character)
         {
             "id": "e' . $character['name'] . $id . '",
             "source": "n' . $character['name'] . '",
-            "target": "n' . $connection . '"
+            "target": "n' . $connection['name'] . '"
         },';
     }
 }
@@ -25,8 +27,9 @@ if (strlen($edges) > 0)
         {
             "id": "n<?php print CHtml::encode($character['name']) ?>",
             "label": "<?php print CHtml::encode($character['name']) ?>",
-            "x": <?php print rand(1,1000) ?>,
-            "y": <?php print rand(1,1000) ?>,
+            "x": <?php print $character['spring_coordinates'][0] ?>,
+            "y": <?php print $character['spring_coordinates'][1] ?>,
+            <?php print isset($colors[$id - 1]) ? '"color": "#' . $colors[$id - 1] . '",' . "\n" : '' ?>
             "size" : <?php print (int) $character['occurrences'] ?>
         }<?php if ($id < sizeof($book->getConnections())): ?>,<?php endif; ?>
 

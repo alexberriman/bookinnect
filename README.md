@@ -8,6 +8,7 @@ Mines for character connections within books and displays the infornation graphi
 * Python
 * dicttoxml (https://pypi.python.org/pypi/dicttoxml/1.3.1)
 * networkx (http://networkx.github.io/)
+* python-matplotlib
 
 #### Web interface
 * PHP 5.4+
