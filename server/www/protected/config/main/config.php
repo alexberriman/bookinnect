@@ -12,16 +12,26 @@ return [
 
 	// preloading 'log' component
 	'preload' => ['log'],
+    
+    // aliases
+    'aliases' => [
+        'bootstrap' => realpath(__DIR__) . '/../../extensions/bootstrap',
+    ],
 
 	// autoloading model and component classes
 	'import' => [
 		'application.models.*',
 		'application.components.*',
         'ext.giix-components.*',
+        'bootstrap.helpers.*',
 	],
     
 	// application components
 	'components' => [
+        'bootstrap' => [
+            'class' => 'bootstrap.components.TbApi',   
+        ],
+        
 		'user' => [
 			// enable cookie-based authentication
 			'allowAutoLogin' => true,

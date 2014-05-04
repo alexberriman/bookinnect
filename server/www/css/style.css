@@ -130,6 +130,7 @@ a {
 }
 #page {
     margin: 0px auto;
+    width: auto;
 }
 #tagLineHolder {
     background: rgb(246, 246, 246);
@@ -325,6 +326,7 @@ select {
 }
 #dir-holder input#dir-searchinput-text {
     float: left;
+    margin-bottom: 0;
 }
 #dir-holder input {
     display: block;
@@ -599,4 +601,9 @@ table.blue td {
 }
 body.fullscreen  {
     background: rgb(246, 246, 246);
+}
+td .progress {
+    margin: 6px 0 0 0;
+    height: 16px;
+    width: 40%;
 }

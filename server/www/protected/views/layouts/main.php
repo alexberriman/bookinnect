@@ -1,14 +1,15 @@
 <?php /* @var $this Controller */ ?>
+<?php Yii::app()->bootstrap->register(); ?>
 <!doctype html>
 <html lang="en">
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta name="language" content="en">
-    
-    <link href="http://fonts.googleapis.com/css?family=Oswald" rel="stylesheet" type="text/css">
-    <link rel="stylesheet" type="text/css" href="/css/style.css">
 
 	<title><?php echo CHtml::encode($this->pageTitle); ?></title>
+    
+    <link rel="stylesheet" type="text/css" href="/css/style.css">
+    <link href="http://fonts.googleapis.com/css?family=Oswald" rel="stylesheet" type="text/css">
 </head>
 
 <body>

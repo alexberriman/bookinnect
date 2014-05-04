@@ -47,7 +47,7 @@ class BookController extends Controller
     /**
      * View json data
      */
-    public function actionJson($id)
+    public function actionJson($id, $character = '')
     {
         // Load the book and make sure it exists
         if (($book = Book::model()->findByPk($id)) === null)
@@ -56,9 +56,26 @@ class BookController extends Controller
                 'The requested book could not be found.'));
         }
         
+        // Get the character info
+        if (strlen($character) > 0)
+        {
+            $characterName = urldecode($character);
+            $characters = $book->getConnections();
+            
+            // Check to make sure the character exists
+            if (! isset($characters[$characterName]))
+            {
+                throw new CHttpException(404, Yii::t('app', 
+                    'The requested character could not be found.'));
+            }
+            
+            $character = $characters[$characterName];
+        }
+        
         // Render the view
         $this->renderPartial('json', [
             'book' => $book,
+            'char' => $character,
         ]);
     }
     
