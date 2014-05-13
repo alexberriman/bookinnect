@@ -1,0 +1,2035 @@
+<!doctype html>
+
+<!--[if IE 8]><html class="no-js oldie ie8 ie" lang="en-US"><![endif]-->
+<!--[if gte IE 9]><!--><html class="no-js" lang="en-US"><!--<![endif]-->
+
+	<head>
+		<meta charset="UTF-8" />
+<script type='text/javascript'>var ua = navigator.userAgent; var meta = document.createElement('meta');if((ua.toLowerCase().indexOf('android') > -1 && ua.toLowerCase().indexOf('mobile')) || ((ua.match(/iPhone/i)) || (ua.match(/iPad/i)))){ meta.name = 'viewport';	meta.content = 'target-densitydpi=device-dpi, width=device-width'; }var m = document.getElementsByTagName('meta')[0]; m.parentNode.insertBefore(meta,m);</script> 		<meta name="Author" content="AitThemes.com, http://www.ait-themes.com" />
+
+		<title>Page not found | Directory</title>
+		<link rel="profile" href="http://gmpg.org/xfn/11" />
+		<link rel="pingback" href="http://preview.ait-themes.com/directory/wp1/xmlrpc.php" />
+
+		<link href="http://fonts.googleapis.com/css?family=Oswald" rel="stylesheet" type="text/css" />
+
+		<link id="ait-style" rel="stylesheet" type="text/css" media="all" href="http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/style.css?1395403452" />
+
+<link rel="alternate" type="application/rss+xml" title="Directory &raquo; Feed" href="http://preview.ait-themes.com/directory/wp1/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Directory &raquo; Comments Feed" href="http://preview.ait-themes.com/directory/wp1/comments/feed/" />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://preview.ait-themes.com/directory/wp1/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-settings-css'  href='http://preview.ait-themes.com/directory/wp1/wp-content/plugins/revslider/rs-plugin/css/settings.css?ver=3.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-captions-css'  href='http://preview.ait-themes.com/directory/wp1/wp-content/plugins/revslider/rs-plugin/css/captions.css?ver=3.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='ait-jquery-prettyPhoto-css'  href='http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/css/prettyPhoto.css?ver=3.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='ait-jquery-fancybox-css'  href='http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/css/fancybox/jquery.fancybox-1.3.4.css?ver=3.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='ait-jquery-hover-zoom-css'  href='http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/css/hoverZoom.css?ver=3.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='ait-jquery-fancycheckbox-css'  href='http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/css/jquery.fancycheckbox.min.css?ver=3.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-ui-css-css'  href='http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/css/jquery-ui-1.10.1.custom.min.css?ver=3.8.3' type='text/css' media='all' />
+<script type='text/javascript' src='http://preview.ait-themes.com/directory/wp1/wp-includes/js/jquery/jquery.js?ver=1.10.2'></script>
+<script type='text/javascript' src='http://preview.ait-themes.com/directory/wp1/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://preview.ait-themes.com/directory/wp1/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.plugins.min.js?ver=3.8.3'></script>
+<script type='text/javascript' src='http://preview.ait-themes.com/directory/wp1/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js?ver=3.8.3'></script>
+<script type='text/javascript' src='http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/js/libs/jquery.fancycheckbox.min.js?ver=3.8.3'></script>
+<script type='text/javascript' src='http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/js/libs/jquery.html5-placeholder-shim.js?ver=3.8.3'></script>
+<script type='text/javascript' src='http://maps.google.com/maps/api/js?sensor=false&#038;language=en&#038;ver=3.8.3'></script>
+<script type='text/javascript' src='http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/js/libs/gmap3.infobox.js?ver=3.8.3'></script>
+<script type='text/javascript' src='http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/js/libs/gmap3.min.js?ver=3.8.3'></script>
+<script type='text/javascript' src='http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/js/libs/jquery.infieldlabel.js?ver=3.8.3'></script>
+<script type='text/javascript' src='http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/js/libs/jquery.prettyPhoto.js?ver=3.8.3'></script>
+<script type='text/javascript' src='http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/js/libs/jquery.fancybox-1.3.4.js?ver=3.8.3'></script>
+<script type='text/javascript' src='http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/js/libs/jquery.easing-1.3.min.js?ver=3.8.3'></script>
+<script type='text/javascript' src='http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/js/libs/jquery.nicescroll.min.js?ver=3.8.3'></script>
+<script type='text/javascript' src='http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/js/libs/jquery.quicksand.js?ver=3.8.3'></script>
+<script type='text/javascript' src='http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/js/libs/hover.zoom.js?ver=3.8.3'></script>
+<script type='text/javascript' src='http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/js/libs/jquery.finishedTyping.js?ver=3.8.3'></script>
+<script type='text/javascript' src='http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/js/libs/spin.min.js?ver=3.8.3'></script>
+<script type='text/javascript' src='http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/js/libs/modernizr.touch.js?ver=3.8.3'></script>
+<script type='text/javascript' src='http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/js/gridgallery.js?ver=3.8.3'></script>
+<script type='text/javascript' src='http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/js/rating.js?ver=3.8.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var MyAjax = {"ajaxurl":"http:\/\/preview.ait-themes.com\/directory\/wp1\/wp-admin\/admin-ajax.php","ajaxnonce":"b38f531095"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/js/script.js?ver=3.8.3'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://preview.ait-themes.com/directory/wp1/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://preview.ait-themes.com/directory/wp1/wp-includes/wlwmanifest.xml" /> 
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+
+		<script>
+		  'article aside footer header nav section time'.replace(/\w+/g,function(n){ document.createElement(n) })
+		</script>
+
+		<script type="text/javascript">
+		jQuery(document).ready(function($) {
+			
+			var categories = [ { value: "24" , label: "Automotive" },{ value: "113" , label: "-&nbsp;Car Accessories" },{ value: "56" , label: "-&nbsp;Car Dealers" },{ value: "115" , label: "-&nbsp;Car Licenses" },{ value: "57" , label: "-&nbsp;Car Rentals" },{ value: "58" , label: "-&nbsp;Car Repairs" },{ value: "114" , label: "-&nbsp;Car Wash" },{ value: "52" , label: "Business Services" },{ value: "63" , label: "-&nbsp;Advertising" },{ value: "68" , label: "-&nbsp;Consultants - Business" },{ value: "65" , label: "-&nbsp;Employment Agencies" },{ value: "55" , label: "Education" },{ value: "79" , label: "-&nbsp;Music Instruction" },{ value: "77" , label: "-&nbsp;Public &amp; Academic" },{ value: "78" , label: "-&nbsp;Universities" },{ value: "9" , label: "Food" },{ value: "110" , label: "-&nbsp;Fast Food" },{ value: "111" , label: "-&nbsp;Pizza Restaurants" },{ value: "112" , label: "-&nbsp;Restaurants" },{ value: "49" , label: "Health &amp; Medicine" },{ value: "85" , label: "-&nbsp;Chiropractors" },{ value: "83" , label: "-&nbsp;Dentists" },{ value: "88" , label: "-&nbsp;Psychologists" },{ value: "53" , label: "IT Services" },{ value: "71" , label: "-&nbsp;Electronics - Computers" },{ value: "73" , label: "-&nbsp;Electronics - Printers" },{ value: "76" , label: "-&nbsp;Inernet Providers" },{ value: "54" , label: "Retail Shopping" },{ value: "95" , label: "-&nbsp;Bookstores" },{ value: "94" , label: "-&nbsp;Furniture" },{ value: "97" , label: "-&nbsp;Shoes" },{ value: "51" , label: "Sports &amp; Recreation" },{ value: "100" , label: "-&nbsp;Bicycle Sales &amp; Service" },{ value: "102" , label: "-&nbsp;Dancing Instruction" },{ value: "104" , label: "-&nbsp;Golf Courses &amp; Ranges" },{ value: "50" , label: "Travel &amp; Transport" },{ value: "89" , label: "-&nbsp;Hotels, Motels, &amp; Lodging" },{ value: "91" , label: "-&nbsp;Transportation Services" },{ value: "92" , label: "-&nbsp;Travel &amp; Tourism" } ];
+			
+			var locations = [ { value: "107" , label: "Brooklyn" },{ value: "116" , label: "Jersey City" },{ value: "117" , label: "-&nbsp;The Waterfront" },{ value: "43" , label: "New York City" },{ value: "108" , label: "-&nbsp;Bronx" },{ value: "106" , label: "-&nbsp;Manhattan" },{ value: "109" , label: "-&nbsp;Queens" } ];
+
+			var catInput = $( "#dir-searchinput-category" ),
+				catInputID = $( "#dir-searchinput-category-id" ),
+				locInput = $( "#dir-searchinput-location" ),
+				locInputID = $( "#dir-searchinput-location-id" );
+
+			catInput.autocomplete({
+				minLength: 0,
+				source: categories,
+				focus: function( event, ui ) {
+					var val = ui.item.label.replace(/&amp;/g, "&");
+						val = val.replace(/&nbsp;/g, " ");
+					catInput.val( val );
+					return false;
+				},
+				select: function( event, ui ) {
+					var val = ui.item.label.replace(/&amp;/g, "&");
+						val = val.replace(/&nbsp;/g, " ");
+					catInput.val( val );
+					catInputID.val( ui.item.value );
+					return false;
+				}
+			}).data( "ui-autocomplete" )._renderItem = function( ul, item ) {
+				return $( "<li>" )
+					.data( "item.autocomplete", item )
+					.append( "<a>" + item.label + "</a>" )
+					.appendTo( ul );
+			};
+			var catList = catInput.autocomplete( "widget" );
+			catList.niceScroll({ autohidemode: false });
+
+			catInput.click(function(){
+				catInput.val('');
+				catInputID.val('0');
+				catInput.autocomplete( "search", "" );
+			});
+
+			locInput.autocomplete({
+				minLength: 0,
+				source: locations,
+				focus: function( event, ui ) {
+					var val = ui.item.label.replace(/&amp;/g, "&");
+						val = val.replace(/&nbsp;/g, " ");
+					locInput.val( val );
+					return false;
+				},
+				select: function( event, ui ) {
+					var val = ui.item.label.replace(/&amp;/g, "&");
+						val = val.replace(/&nbsp;/g, " ");
+					locInput.val( val );
+					locInputID.val( ui.item.value );
+					return false;
+				}
+			}).data( "ui-autocomplete" )._renderItem = function( ul, item ) {
+				return $( "<li>" )
+					.data( "item.autocomplete", item )
+					.append( "<a>" + item.label + "</a>" )
+					.appendTo( ul );
+			};
+			var locList = locInput.autocomplete( "widget" );
+			locList.niceScroll({ autohidemode: false });
+
+			locInput.click(function(){
+				locInput.val('');
+				locInputID.val('0');
+				locInput.autocomplete( "search", "" );
+			});
+
+
+
+		});
+		</script>
+
+	</head>
+
+	<body class="error404 ait-directory" data-themeurl="http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory">
+
+		<div id="page" class="hfeed " >
+
+
+
+
+<div class="topbar clearfix">
+		<div id="tagLineHolder">
+			<div class="defaultContentWidth clearfix">
+				<p class="left info">+044 802 52578  directory@mail.com</p>
+    <ul class="social-icons right clearfix">
+        <li class="left"><a href="http://www.facebook.com/AitThemes"><img src="http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/social-icons/facebook-ff.png" height="24" width="24" alt="Facebook" title="Facebook" /></a></li>
+        <li class="left"><a href="http://www.youtube.com/user/AitThemes"><img src="http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/social-icons/youtube-ff.png" height="24" width="24" alt="Whatch us on Youtube." title="Whatch us on Youtube." /></a></li>
+        <li class="left"><a href="http://www.twitter.com/AitThemes"><img src="http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/social-icons/twitter-ff.png" height="24" width="24" alt="Follow us on Twitter" title="Follow us on Twitter" /></a></li>
+        <li class="left"><a href="http://dribbble.com/aitthemes"><img src="http://preview.ait-themes.com/directory/wp1/wp-content/uploads/dribbble-ff.png" height="24" width="24" alt="Dribbble" title="Dribbble" /></a></li>
+    </ul>
+<!-- WPML plugin required -->
+				<!-- <form method="get" id="searchform" action="http://preview.ait-themes.com/directory/wp1/">
+	<label for="s" class="assistive-text">Search</label>
+	<input type="text" class="field" name="s" id="s" placeholder="Search" />
+	<input type="submit" class="submit" name="submit" id="searchsubmit" value="Search" />
+</form>
+ -->
+			</div>
+		</div>
+</div>
+
+<header id="branding" role="banner">
+	<div class="defaultContentWidth clearfix">
+		<div id="logo" class="left">
+				<a class="trademark" href="http://preview.ait-themes.com/directory/wp1/">
+					<img src="http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/logo.png" alt="logo" />
+				</a>
+		</div>
+
+		<nav id="access" role="navigation">
+
+				<h3 class="assistive-text">Main menu</h3>
+<nav class="mainmenu"><ul id="menu-main-menu" class="menu"><li id="menu-item-7648" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7648"><a href="http://preview.ait-themes.com/directory/wp1/">Homepage</a>
+<ul class="sub-menu">
+	<li id="menu-item-8113" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8113"><a href="http://preview.ait-themes.com/directory/wp1/streetdance-courses/">Blank Header</a></li>
+	<li id="menu-item-8105" class="menu-item menu-item-type-taxonomy menu-item-object-ait-dir-item-category menu-item-8105"><a href="http://preview.ait-themes.com/directory/wp1/cat/car-accesories/">Header with Map</a></li>
+	<li id="menu-item-8104" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8104"><a href="http://preview.ait-themes.com/directory/wp1/register-form/">Header with Revolution Slider</a></li>
+	<li id="menu-item-8110" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-8110"><a href="http://preview.ait-themes.com/directory/wp1/blog/">Header with Single Image</a></li>
+	<li id="menu-item-8106" class="menu-item menu-item-type-post_type menu-item-object-ait-dir-item menu-item-8106"><a href="http://preview.ait-themes.com/directory/wp1/item/car-pro/">Header with Streetview</a></li>
+	<li id="menu-item-8244" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8244"><a href="http://preview.ait-themes.com/directory/wp1/homepage-with-geolocate/">Homepage with Geolocate</a></li>
+</ul>
+</li>
+<li id="menu-item-8269" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8269"><a href="http://preview.ait-themes.com/directory/wp1/register-form/">Submit Listing</a></li>
+<li id="menu-item-7712" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-7712"><a href="http://preview.ait-themes.com/directory/wp1/blog/">Blog</a></li>
+<li id="menu-item-7641" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7641"><a href="#">Theme Features</a>
+<ul class="sub-menu">
+	<li id="menu-item-8435" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8435"><a href="http://preview.ait-themes.com/directory/wp1/theme-features/easy-admin/">Easy Admin</a></li>
+	<li id="menu-item-8180" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8180"><a href="http://preview.ait-themes.com/directory/wp1/theme-features/advertising-spaces/">Advertising Spaces</a></li>
+	<li id="menu-item-8182" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8182"><a href="http://preview.ait-themes.com/directory/wp1/theme-features/content-section-layout/">Content Section Layout</a></li>
+	<li id="menu-item-8181" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8181"><a href="http://preview.ait-themes.com/directory/wp1/theme-features/premium-admin-panel/">Premium Admin Panel</a></li>
+	<li id="menu-item-8183" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8183"><a href="http://preview.ait-themes.com/directory/wp1/theme-features/text-styles/">Text Styles &#038; Classes</a></li>
+	<li id="menu-item-8234" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8234"><a href="http://preview.ait-themes.com/directory/wp1/theme-features/page-layout-style/">Page Layout style</a></li>
+	<li id="menu-item-7653" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7653"><a href="http://preview.ait-themes.com/directory/wp1/theme-features/gallery/">Picture Gallery</a></li>
+	<li id="menu-item-7654" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7654"><a href="http://preview.ait-themes.com/directory/wp1/theme-features/portfolio/">Universal Portfolio</a>
+	<ul class="sub-menu">
+		<li id="menu-item-7660" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7660"><a href="http://preview.ait-themes.com/directory/wp1/theme-features/portfolio/3-columns-portfolio/">3 Columns Portfolio</a></li>
+		<li id="menu-item-7662" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7662"><a href="http://preview.ait-themes.com/directory/wp1/theme-features/portfolio/4-columns-portfolio/">4 Columns Portfolio</a></li>
+		<li id="menu-item-7657" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7657"><a href="http://preview.ait-themes.com/directory/wp1/theme-features/portfolio/5-columns-portfolio/">5 Columns Portfolio</a></li>
+	</ul>
+</li>
+	<li id="menu-item-7651" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7651"><a href="http://preview.ait-themes.com/directory/wp1/theme-features/shortcodes/">Shortcodes</a>
+	<ul class="sub-menu">
+		<li id="menu-item-7665" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7665"><a href="http://preview.ait-themes.com/directory/wp1/theme-features/shortcodes/columns/">Columns</a></li>
+		<li id="menu-item-7666" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7666"><a href="http://preview.ait-themes.com/directory/wp1/theme-features/shortcodes/boxes-frames/">Boxes &#038; Frames</a></li>
+		<li id="menu-item-7667" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7667"><a href="http://preview.ait-themes.com/directory/wp1/theme-features/shortcodes/buttons/">Buttons</a></li>
+		<li id="menu-item-7668" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7668"><a href="http://preview.ait-themes.com/directory/wp1/theme-features/shortcodes/lists/">Lists</a></li>
+		<li id="menu-item-7679" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7679"><a href="http://preview.ait-themes.com/directory/wp1/theme-features/shortcodes/tabs-and-accordions/">Tabs and Accordions</a></li>
+		<li id="menu-item-7669" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7669"><a href="http://preview.ait-themes.com/directory/wp1/theme-features/shortcodes/pricing-tables/">Pricing tables</a></li>
+		<li id="menu-item-7670" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7670"><a href="http://preview.ait-themes.com/directory/wp1/theme-features/shortcodes/posts/">Posts</a></li>
+		<li id="menu-item-7671" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7671"><a href="http://preview.ait-themes.com/directory/wp1/theme-features/shortcodes/sitemap/">Sitemap</a></li>
+		<li id="menu-item-7672" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7672"><a href="http://preview.ait-themes.com/directory/wp1/theme-features/shortcodes/videos/">Videos</a></li>
+		<li id="menu-item-7673" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7673"><a href="http://preview.ait-themes.com/directory/wp1/theme-features/shortcodes/facebook-twitter/">Facebook &#038; Twitter</a></li>
+		<li id="menu-item-7674" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7674"><a href="http://preview.ait-themes.com/directory/wp1/theme-features/shortcodes/google-maps/">Google Maps</a></li>
+		<li id="menu-item-7675" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7675"><a href="http://preview.ait-themes.com/directory/wp1/theme-features/shortcodes/google-chart/">Google Chart</a></li>
+		<li id="menu-item-7676" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7676"><a href="http://preview.ait-themes.com/directory/wp1/theme-features/shortcodes/notifications/">Notifications</a></li>
+		<li id="menu-item-7677" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7677"><a href="http://preview.ait-themes.com/directory/wp1/theme-features/shortcodes/modal-windows/">Modal Windows</a></li>
+		<li id="menu-item-7678" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7678"><a href="http://preview.ait-themes.com/directory/wp1/theme-features/shortcodes/images/">Images</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-7650" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7650"><a href="http://preview.ait-themes.com/directory/wp1/contact/">Contact Us</a></li>
+<li id="menu-item-8114" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8114"><a title="Buy Theme" href="http://themeforest.net/item/directory-portal-wordpress-theme/3840053?ref=ait">Buy Theme</a></li>
+</ul></nav>
+		</nav><!-- #accs -->
+
+	</div>
+</header><!-- #branding -->
+			<div id="directory-main-bar" data-category="0" data-location="0" data-search="" data-geolocation="false">
+			</div>
+
+<script type="text/javascript">
+var mapDiv,
+	map,
+	infobox;
+jQuery(document).ready(function($) {
+
+	mapDiv = $("#directory-main-bar");
+	mapDiv.height(500).gmap3({
+		map: {
+			options: {
+				"draggable": true
+				,"mapTypeControl": true
+				,"mapTypeId": google.maps.MapTypeId.ROADMAP
+				,"scrollwheel": false
+				,"panControl": true
+				,"rotateControl": false
+				,"scaleControl": true
+				,"streetViewControl": true
+				,"zoomControl": true
+			}
+		}
+		,marker: {
+			values: [
+					{
+						latLng: [40.71958306715651,-74.0379810333252],
+						options: {
+							icon: "http://preview.ait-themes.com/directory/wp1/wp-content/uploads/sports.png",
+							shadow: "http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/map-icon/icon-shadow.png",
+						},
+						data: 	'<div class="marker-holder">'+
+									'<div class="marker-content with-image"><img src="http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/tn.php?src=http%3A%2F%2Fpreview.ait-themes.com%2Fdirectory%2Fwp1%2Fwp-content%2Fuploads%2Fbigstock-young-people-dancing-in-a-stud-34308962.jpg&amp;w=120&amp;h=160" alt="">'+
+										'<div class="map-item-info">'+
+											'<div class="title">'+"Dance & Relax"+'</div>'+
+											'<div class="address">'+"276 Canal Street, New York, NY 10013, United States"+'</div>'+
+											'<div data-link="http://preview.ait-themes.com/directory/wp1/item/dance-relax/" class="more-button">' + "VIEW MORE" + '</div>'+
+											'</div><div class="arrow"></div><div class="close"></div>'+
+										'</div>'+
+									'</div>'+
+								'</div>'
+					}
+				,
+					{
+						latLng: [40.7053026089413,-73.95326614379883],
+						options: {
+							icon: "http://preview.ait-themes.com/directory/wp1/wp-content/uploads/sports.png",
+							shadow: "http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/map-icon/icon-shadow.png",
+						},
+						data: 	'<div class="marker-holder">'+
+									'<div class="marker-content with-image"><img src="http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/tn.php?src=http%3A%2F%2Fpreview.ait-themes.com%2Fdirectory%2Fwp1%2Fwp-content%2Fuploads%2Fbigstock-All-Metal-Bicycle-2378091.jpg&amp;w=120&amp;h=160" alt="">'+
+										'<div class="map-item-info">'+
+											'<div class="title">'+"Bike PRO"+'</div>'+
+											'<div class="address">'+"276 Canal Street, New York, NY 10013, United States"+'</div>'+
+											'<div data-link="http://preview.ait-themes.com/directory/wp1/item/bike-pro/" class="more-button">' + "VIEW MORE" + '</div>'+
+											'</div><div class="arrow"></div><div class="close"></div>'+
+										'</div>'+
+									'</div>'+
+								'</div>'
+					}
+				,
+					{
+						latLng: [40.71322392474486,-73.9909029006958],
+						options: {
+							icon: "http://preview.ait-themes.com/directory/wp1/wp-content/uploads/sports.png",
+							shadow: "http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/map-icon/icon-shadow.png",
+						},
+						data: 	'<div class="marker-holder">'+
+									'<div class="marker-content with-image"><img src="http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/tn.php?src=http%3A%2F%2Fpreview.ait-themes.com%2Fdirectory%2Fwp1%2Fwp-content%2Fuploads%2Fbigstock-Golf-Swing-In-Riva-Dei-Tessali-1549723.jpg&amp;w=120&amp;h=160" alt="">'+
+										'<div class="map-item-info">'+
+											'<div class="title">'+"Golf Game"+'</div>'+
+											'<div class="address">'+"276 Canal Street, New York, NY 10013, United States"+'</div>'+
+											'<div data-link="http://preview.ait-themes.com/directory/wp1/item/play-golf-2/" class="more-button">' + "VIEW MORE" + '</div>'+
+											'</div><div class="arrow"></div><div class="close"></div>'+
+										'</div>'+
+									'</div>'+
+								'</div>'
+					}
+				,
+					{
+						latLng: [40.71283357396648,-74.00152444839478],
+						options: {
+							icon: "http://preview.ait-themes.com/directory/wp1/wp-content/uploads/food1.png",
+							shadow: "http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/map-icon/icon-shadow.png",
+						},
+						data: 	'<div class="marker-holder">'+
+									'<div class="marker-content with-image"><img src="http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/tn.php?src=http%3A%2F%2Fpreview.ait-themes.com%2Fdirectory%2Fwp1%2Fwp-content%2Fuploads%2Fbigstock-Pepperoni-Pizza-Slice-2471467.jpg&amp;w=120&amp;h=160" alt="">'+
+										'<div class="map-item-info">'+
+											'<div class="title">'+"Pizza House JARO"+'</div>'+
+											'<div class="address">'+"66 Pearl Street, New York, NY 10000, United States"+'</div>'+
+											'<div data-link="http://preview.ait-themes.com/directory/wp1/item/jaro-pizza-2/" class="more-button">' + "VIEW MORE" + '</div>'+
+											'</div><div class="arrow"></div><div class="close"></div>'+
+										'</div>'+
+									'</div>'+
+								'</div>'
+					}
+				,
+					{
+						latLng: [40.703135062150984,-73.9937835931778],
+						options: {
+							icon: "http://preview.ait-themes.com/directory/wp1/wp-content/uploads/travel1.png",
+							shadow: "http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/map-icon/icon-shadow.png",
+						},
+						data: 	'<div class="marker-holder">'+
+									'<div class="marker-content with-image"><img src="http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/tn.php?src=http%3A%2F%2Fpreview.ait-themes.com%2Fdirectory%2Fwp1%2Fwp-content%2Fuploads%2Fbigstock-Tab-And-Travel-28265309.jpg&amp;w=120&amp;h=160" alt="">'+
+										'<div class="map-item-info">'+
+											'<div class="title">'+"Age Travel"+'</div>'+
+											'<div class="address">'+"66 Pearl Street, New York, NY 10000, United States"+'</div>'+
+											'<div data-link="http://preview.ait-themes.com/directory/wp1/item/travel-age/" class="more-button">' + "VIEW MORE" + '</div>'+
+											'</div><div class="arrow"></div><div class="close"></div>'+
+										'</div>'+
+									'</div>'+
+								'</div>'
+					}
+				,
+					{
+						latLng: [40.70379794042075,-73.98971736431122],
+						options: {
+							icon: "http://preview.ait-themes.com/directory/wp1/wp-content/uploads/sports.png",
+							shadow: "http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/map-icon/icon-shadow.png",
+						},
+						data: 	'<div class="marker-holder">'+
+									'<div class="marker-content with-image"><img src="http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/tn.php?src=http%3A%2F%2Fpreview.ait-themes.com%2Fdirectory%2Fwp1%2Fwp-content%2Fuploads%2Fbigstock-Ball-view-from-golf-course-26935142.jpg&amp;w=120&amp;h=160" alt="">'+
+										'<div class="map-item-info">'+
+											'<div class="title">'+"School of Golf"+'</div>'+
+											'<div class="address">'+"66 Pearl Street, New York, NY 10000, United States"+'</div>'+
+											'<div data-link="http://preview.ait-themes.com/directory/wp1/item/play-golf/" class="more-button">' + "VIEW MORE" + '</div>'+
+											'</div><div class="arrow"></div><div class="close"></div>'+
+										'</div>'+
+									'</div>'+
+								'</div>'
+					}
+				,
+					{
+						latLng: [40.70849076720841,-74.01805758476257],
+						options: {
+							icon: "http://preview.ait-themes.com/directory/wp1/wp-content/uploads/sports.png",
+							shadow: "http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/map-icon/icon-shadow.png",
+						},
+						data: 	'<div class="marker-holder">'+
+									'<div class="marker-content with-image"><img src="http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/tn.php?src=http%3A%2F%2Fpreview.ait-themes.com%2Fdirectory%2Fwp1%2Fwp-content%2Fuploads%2Fbigstock-Ballroom-Dance-24850130.jpg&amp;w=120&amp;h=160" alt="">'+
+										'<div class="map-item-info">'+
+											'<div class="title">'+"Step 2 Step"+'</div>'+
+											'<div class="address">'+"66 Pearl Street, New York, NY 10000, United States"+'</div>'+
+											'<div data-link="http://preview.ait-themes.com/directory/wp1/item/dance-like-a-boss/" class="more-button">' + "VIEW MORE" + '</div>'+
+											'</div><div class="arrow"></div><div class="close"></div>'+
+										'</div>'+
+									'</div>'+
+								'</div>'
+					}
+				,
+					{
+						latLng: [40.71357361204046,-74.0397834777832],
+						options: {
+							icon: "http://preview.ait-themes.com/directory/wp1/wp-content/uploads/sports.png",
+							shadow: "http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/map-icon/icon-shadow.png",
+						},
+						data: 	'<div class="marker-holder">'+
+									'<div class="marker-content with-image"><img src="http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/tn.php?src=http%3A%2F%2Fpreview.ait-themes.com%2Fdirectory%2Fwp1%2Fwp-content%2Fuploads%2Fbigstock-bikes-parked-13816355.jpg&amp;w=120&amp;h=160" alt="">'+
+										'<div class="map-item-info">'+
+											'<div class="title">'+"Ride Shop"+'</div>'+
+											'<div class="address">'+"66 Pearl Street, New York, NY 10000, United States"+'</div>'+
+											'<div data-link="http://preview.ait-themes.com/directory/wp1/item/bike-shop-2/" class="more-button">' + "VIEW MORE" + '</div>'+
+											'</div><div class="arrow"></div><div class="close"></div>'+
+										'</div>'+
+									'</div>'+
+								'</div>'
+					}
+				,
+					{
+						latLng: [40.71309787422285,-74.03395771980286],
+						options: {
+							icon: "http://preview.ait-themes.com/directory/wp1/wp-content/uploads/shopping2.png",
+							shadow: "http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/map-icon/icon-shadow.png",
+						},
+						data: 	'<div class="marker-holder">'+
+									'<div class="marker-content with-image"><img src="http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/tn.php?src=http%3A%2F%2Fpreview.ait-themes.com%2Fdirectory%2Fwp1%2Fwp-content%2Fuploads%2Fbigstock-Shopping-online-15063386.jpg&amp;w=120&amp;h=160" alt="">'+
+										'<div class="map-item-info">'+
+											'<div class="title">'+"KE Shop"+'</div>'+
+											'<div class="address">'+"66 Pearl Street, New York, NY 10000, United States"+'</div>'+
+											'<div data-link="http://preview.ait-themes.com/directory/wp1/item/fancy-shoes/" class="more-button">' + "VIEW MORE" + '</div>'+
+											'</div><div class="arrow"></div><div class="close"></div>'+
+										'</div>'+
+									'</div>'+
+								'</div>'
+					}
+				,
+					{
+						latLng: [40.7149077945163,-74.00572210550308],
+						options: {
+							icon: "http://preview.ait-themes.com/directory/wp1/wp-content/uploads/shopping2.png",
+							shadow: "http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/map-icon/icon-shadow.png",
+						},
+						data: 	'<div class="marker-holder">'+
+									'<div class="marker-content with-image"><img src="http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/tn.php?src=http%3A%2F%2Fpreview.ait-themes.com%2Fdirectory%2Fwp1%2Fwp-content%2Fuploads%2Fbigstock-Shopping-cart-Vector-icon-Bu-14465351.jpg&amp;w=120&amp;h=160" alt="">'+
+										'<div class="map-item-info">'+
+											'<div class="title">'+"X-Buy Shop"+'</div>'+
+											'<div class="address">'+"66 Pearl Street, New York, NY 10000, United States"+'</div>'+
+											'<div data-link="http://preview.ait-themes.com/directory/wp1/item/furniture-shop/" class="more-button">' + "VIEW MORE" + '</div>'+
+											'</div><div class="arrow"></div><div class="close"></div>'+
+										'</div>'+
+									'</div>'+
+								'</div>'
+					}
+				,
+					{
+						latLng: [40.703376017131866,-74.0079402923584],
+						options: {
+							icon: "http://preview.ait-themes.com/directory/wp1/wp-content/uploads/tech.png",
+							shadow: "http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/map-icon/icon-shadow.png",
+						},
+						data: 	'<div class="marker-holder">'+
+									'<div class="marker-content with-image"><img src="http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/tn.php?src=http%3A%2F%2Fpreview.ait-themes.com%2Fdirectory%2Fwp1%2Fwp-content%2Fuploads%2Fbigstock-Internet-14597945.jpg&amp;w=120&amp;h=160" alt="">'+
+										'<div class="map-item-info">'+
+											'<div class="title">'+"IT Solving PRO"+'</div>'+
+											'<div class="address">'+"66 Pearl Street, New York, NY 10000, United States"+'</div>'+
+											'<div data-link="http://preview.ait-themes.com/directory/wp1/item/internet-connect/" class="more-button">' + "VIEW MORE" + '</div>'+
+											'</div><div class="arrow"></div><div class="close"></div>'+
+										'</div>'+
+									'</div>'+
+								'</div>'
+					}
+				,
+					{
+						latLng: [40.71006852376983,-74.01072978973389],
+						options: {
+							icon: "http://preview.ait-themes.com/directory/wp1/wp-content/uploads/tech.png",
+							shadow: "http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/map-icon/icon-shadow.png",
+						},
+						data: 	'<div class="marker-holder">'+
+									'<div class="marker-content with-image"><img src="http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/tn.php?src=http%3A%2F%2Fpreview.ait-themes.com%2Fdirectory%2Fwp1%2Fwp-content%2Fuploads%2Fbigstock-Repairman-working-with-compute-26333609.jpg&amp;w=120&amp;h=160" alt="">'+
+										'<div class="map-item-info">'+
+											'<div class="title">'+"IT MAX"+'</div>'+
+											'<div class="address">'+"66 Pearl Street, New York, NY 10000, United States"+'</div>'+
+											'<div data-link="http://preview.ait-themes.com/directory/wp1/item/abc-printer/" class="more-button">' + "VIEW MORE" + '</div>'+
+											'</div><div class="arrow"></div><div class="close"></div>'+
+										'</div>'+
+									'</div>'+
+								'</div>'
+					}
+				,
+					{
+						latLng: [40.71138600318452,-73.95681738853455],
+						options: {
+							icon: "http://preview.ait-themes.com/directory/wp1/wp-content/uploads/medical.png",
+							shadow: "http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/map-icon/icon-shadow.png",
+						},
+						data: 	'<div class="marker-holder">'+
+									'<div class="marker-content with-image"><img src="http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/tn.php?src=http%3A%2F%2Fpreview.ait-themes.com%2Fdirectory%2Fwp1%2Fwp-content%2Fuploads%2Fbigstock-Male-Patient-And-Doctor-Talkin-2373773.jpg&amp;w=120&amp;h=160" alt="">'+
+										'<div class="map-item-info">'+
+											'<div class="title">'+"Dr. Martinko"+'</div>'+
+											'<div class="address">'+"66 Pearl Street, New York, NY 10000, United States"+'</div>'+
+											'<div data-link="http://preview.ait-themes.com/directory/wp1/item/dr-martinko/" class="more-button">' + "VIEW MORE" + '</div>'+
+											'</div><div class="arrow"></div><div class="close"></div>'+
+										'</div>'+
+									'</div>'+
+								'</div>'
+					}
+				,
+					{
+						latLng: [40.715618839321955,-74.03407037258148],
+						options: {
+							icon: "http://preview.ait-themes.com/directory/wp1/wp-content/uploads/food1.png",
+							shadow: "http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/map-icon/icon-shadow.png",
+						},
+						data: 	'<div class="marker-holder">'+
+									'<div class="marker-content with-image"><img src="http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/tn.php?src=http%3A%2F%2Fpreview.ait-themes.com%2Fdirectory%2Fwp1%2Fwp-content%2Fuploads%2Fbigstock-Family-Eating-Lunch-Together-I-32306639.jpg&amp;w=120&amp;h=160" alt="">'+
+										'<div class="map-item-info">'+
+											'<div class="title">'+"Art Restaurant"+'</div>'+
+											'<div class="address">'+"66 Pearl Street, New York, NY 10000, United States"+'</div>'+
+											'<div data-link="http://preview.ait-themes.com/directory/wp1/item/art-restauratnt/" class="more-button">' + "VIEW MORE" + '</div>'+
+											'</div><div class="arrow"></div><div class="close"></div>'+
+										'</div>'+
+									'</div>'+
+								'</div>'
+					}
+				,
+					{
+						latLng: [40.70436727845332,-73.9669132232666],
+						options: {
+							icon: "http://preview.ait-themes.com/directory/wp1/wp-content/uploads/food1.png",
+							shadow: "http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/map-icon/icon-shadow.png",
+						},
+						data: 	'<div class="marker-holder">'+
+									'<div class="marker-content with-image"><img src="http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/tn.php?src=http%3A%2F%2Fpreview.ait-themes.com%2Fdirectory%2Fwp1%2Fwp-content%2Fuploads%2Fbigstock-Collage-of-pub-food-including-15284801.jpg&amp;w=120&amp;h=160" alt="">'+
+										'<div class="map-item-info">'+
+											'<div class="title">'+"Corner Fast Food"+'</div>'+
+											'<div class="address">'+"66 Pearl Street, New York, NY 10000, United States"+'</div>'+
+											'<div data-link="http://preview.ait-themes.com/directory/wp1/item/corner-fast-food/" class="more-button">' + "VIEW MORE" + '</div>'+
+											'</div><div class="arrow"></div><div class="close"></div>'+
+										'</div>'+
+									'</div>'+
+								'</div>'
+					}
+				,
+					{
+						latLng: [40.706549018067186,-74.0119394659996],
+						options: {
+							icon: "http://preview.ait-themes.com/directory/wp1/wp-content/uploads/education1.png",
+							shadow: "http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/map-icon/icon-shadow.png",
+						},
+						data: 	'<div class="marker-holder">'+
+									'<div class="marker-content with-image"><img src="http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/tn.php?src=http%3A%2F%2Fpreview.ait-themes.com%2Fdirectory%2Fwp1%2Fwp-content%2Fuploads%2Fbigstock-Multi-ethnic-Group-Of-Students-4413098.jpg&amp;w=120&amp;h=160" alt="">'+
+										'<div class="map-item-info">'+
+											'<div class="title">'+"St. Patrick's School"+'</div>'+
+											'<div class="address">'+"66 Pearl Street, New York, NY 10000, United States"+'</div>'+
+											'<div data-link="http://preview.ait-themes.com/directory/wp1/item/piano-teacher/" class="more-button">' + "VIEW MORE" + '</div>'+
+											'</div><div class="arrow"></div><div class="close"></div>'+
+										'</div>'+
+									'</div>'+
+								'</div>'
+					}
+				,
+					{
+						latLng: [40.70513994371307,-73.96133422851562],
+						options: {
+							icon: "http://preview.ait-themes.com/directory/wp1/wp-content/uploads/education1.png",
+							shadow: "http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/map-icon/icon-shadow.png",
+						},
+						data: 	'<div class="marker-holder">'+
+									'<div class="marker-content with-image"><img src="http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/tn.php?src=http%3A%2F%2Fpreview.ait-themes.com%2Fdirectory%2Fwp1%2Fwp-content%2Fuploads%2Fbigstock-group-of-friends-or-college-st-13618418.jpg&amp;w=120&amp;h=160" alt="">'+
+										'<div class="map-item-info">'+
+											'<div class="title">'+"Brooklyn Public School"+'</div>'+
+											'<div class="address">'+"66 Pearl Street, New York, NY 10000, United States"+'</div>'+
+											'<div data-link="http://preview.ait-themes.com/directory/wp1/item/brooklyn-public-school/" class="more-button">' + "VIEW MORE" + '</div>'+
+											'</div><div class="arrow"></div><div class="close"></div>'+
+										'</div>'+
+									'</div>'+
+								'</div>'
+					}
+				,
+					{
+						latLng: [40.71288236793894,-73.96618366241455],
+						options: {
+							icon: "http://preview.ait-themes.com/directory/wp1/wp-content/uploads/medical.png",
+							shadow: "http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/map-icon/icon-shadow.png",
+						},
+						data: 	'<div class="marker-holder">'+
+									'<div class="marker-content with-image"><img src="http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/tn.php?src=http%3A%2F%2Fpreview.ait-themes.com%2Fdirectory%2Fwp1%2Fwp-content%2Fuploads%2Fbigstock-Businessman-with-Female-Doctor-33068189.jpg&amp;w=120&amp;h=160" alt="">'+
+										'<div class="map-item-info">'+
+											'<div class="title">'+"Dr. Sabol"+'</div>'+
+											'<div class="address">'+"66 Pearl Street, New York, NY 10000, United States"+'</div>'+
+											'<div data-link="http://preview.ait-themes.com/directory/wp1/item/dr-maco/" class="more-button">' + "VIEW MORE" + '</div>'+
+											'</div><div class="arrow"></div><div class="close"></div>'+
+										'</div>'+
+									'</div>'+
+								'</div>'
+					}
+				,
+					{
+						latLng: [40.72153460029748,-74.03381824493408],
+						options: {
+							icon: "http://preview.ait-themes.com/directory/wp1/wp-content/uploads/medical.png",
+							shadow: "http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/map-icon/icon-shadow.png",
+						},
+						data: 	'<div class="marker-holder">'+
+									'<div class="marker-content with-image"><img src="http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/tn.php?src=http%3A%2F%2Fpreview.ait-themes.com%2Fdirectory%2Fwp1%2Fwp-content%2Fuploads%2Fbigstock-Happy-Old-Man-Having-A-Casual-6224700.jpg&amp;w=120&amp;h=160" alt="">'+
+										'<div class="map-item-info">'+
+											'<div class="title">'+"Dr. Martin"+'</div>'+
+											'<div class="address">'+"33 Stanton Street, manhattan, NY 07302, United States"+'</div>'+
+											'<div data-link="http://preview.ait-themes.com/directory/wp1/item/dr-martin/" class="more-button">' + "VIEW MORE" + '</div>'+
+											'</div><div class="arrow"></div><div class="close"></div>'+
+										'</div>'+
+									'</div>'+
+								'</div>'
+					}
+				,
+					{
+						latLng: [40.716004880353196,-73.96316471664431],
+						options: {
+							icon: "http://preview.ait-themes.com/directory/wp1/wp-content/uploads/travel1.png",
+							shadow: "http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/map-icon/icon-shadow.png",
+						},
+						data: 	'<div class="marker-holder">'+
+									'<div class="marker-content with-image"><img src="http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/tn.php?src=http%3A%2F%2Fpreview.ait-themes.com%2Fdirectory%2Fwp1%2Fwp-content%2Fuploads%2Fbigstock-illustration-of-world-famous-m-25625915.jpg&amp;w=120&amp;h=160" alt="">'+
+										'<div class="map-item-info">'+
+											'<div class="title">'+"Trip & Travel"+'</div>'+
+											'<div class="address">'+"66 Pearl Street, New York, NY 10000, United States"+'</div>'+
+											'<div data-link="http://preview.ait-themes.com/directory/wp1/item/hotel-paris/" class="more-button">' + "VIEW MORE" + '</div>'+
+											'</div><div class="arrow"></div><div class="close"></div>'+
+										'</div>'+
+									'</div>'+
+								'</div>'
+					}
+				,
+					{
+						latLng: [40.71916,-74.001295],
+						options: {
+							icon: "http://preview.ait-themes.com/directory/wp1/wp-content/uploads/travel1.png",
+							shadow: "http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/map-icon/icon-shadow.png",
+						},
+						data: 	'<div class="marker-holder">'+
+									'<div class="marker-content with-image"><img src="http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/tn.php?src=http%3A%2F%2Fpreview.ait-themes.com%2Fdirectory%2Fwp1%2Fwp-content%2Fuploads%2Fbigstock-Girl-in-the-airport-33339404.jpg&amp;w=120&amp;h=160" alt="">'+
+										'<div class="map-item-info">'+
+											'<div class="title">'+"Tour 4 You"+'</div>'+
+											'<div class="address">'+"276 Canal Street, New York, NY 10013, United States"+'</div>'+
+											'<div data-link="http://preview.ait-themes.com/directory/wp1/item/tour-4-you/" class="more-button">' + "VIEW MORE" + '</div>'+
+											'</div><div class="arrow"></div><div class="close"></div>'+
+										'</div>'+
+									'</div>'+
+								'</div>'
+					}
+				,
+					{
+						latLng: [40.704928,-73.986336],
+						options: {
+							icon: "http://preview.ait-themes.com/directory/wp1/wp-content/uploads/shopping2.png",
+							shadow: "http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/map-icon/icon-shadow.png",
+						},
+						data: 	'<div class="marker-holder">'+
+									'<div class="marker-content with-image"><img src="http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/tn.php?src=http%3A%2F%2Fpreview.ait-themes.com%2Fdirectory%2Fwp1%2Fwp-content%2Fuploads%2Fbigstock-shopping-cart-icon-817929.jpg&amp;w=120&amp;h=160" alt="">'+
+										'<div class="map-item-info">'+
+											'<div class="title">'+"BB Shoping Center"+'</div>'+
+											'<div class="address">'+"10 Jay Street #404, Brooklyn, NY 11201, United States"+'</div>'+
+											'<div data-link="http://preview.ait-themes.com/directory/wp1/item/brooklyn-bookstore/" class="more-button">' + "VIEW MORE" + '</div>'+
+											'</div><div class="arrow"></div><div class="close"></div>'+
+										'</div>'+
+									'</div>'+
+								'</div>'
+					}
+				,
+					{
+						latLng: [40.711093232233985,-73.98279190063477],
+						options: {
+							icon: "http://preview.ait-themes.com/directory/wp1/wp-content/uploads/tech.png",
+							shadow: "http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/map-icon/icon-shadow.png",
+						},
+						data: 	'<div class="marker-holder">'+
+									'<div class="marker-content with-image"><img src="http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/tn.php?src=http%3A%2F%2Fpreview.ait-themes.com%2Fdirectory%2Fwp1%2Fwp-content%2Fuploads%2Fbigstock-shopping-cart-over-a-laptop-is-15474395.jpg&amp;w=120&amp;h=160" alt="">'+
+										'<div class="map-item-info">'+
+											'<div class="title">'+"IT Shop NYC"+'</div>'+
+											'<div class="address">'+"23 Park Row, New York, NY 10038, United States"+'</div>'+
+											'<div data-link="http://preview.ait-themes.com/directory/wp1/item/pc-shop-ny/" class="more-button">' + "VIEW MORE" + '</div>'+
+											'</div><div class="arrow"></div><div class="close"></div>'+
+										'</div>'+
+									'</div>'+
+								'</div>'
+					}
+				,
+					{
+						latLng: [40.713043,-74.005992],
+						options: {
+							icon: "http://preview.ait-themes.com/directory/wp1/wp-content/uploads/education1.png",
+							shadow: "http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/map-icon/icon-shadow.png",
+						},
+						data: 	'<div class="marker-holder">'+
+									'<div class="marker-content with-image"><img src="http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/tn.php?src=http%3A%2F%2Fpreview.ait-themes.com%2Fdirectory%2Fwp1%2Fwp-content%2Fuploads%2Fbigstock-Multicultural-College-students-21892694.jpg&amp;w=120&amp;h=160" alt="">'+
+										'<div class="map-item-info">'+
+											'<div class="title">'+"Pace Public School"+'</div>'+
+											'<div class="address">'+"163 William Street #2 New York, NY 10038, United States"+'</div>'+
+											'<div data-link="http://preview.ait-themes.com/directory/wp1/item/pace-university/" class="more-button">' + "VIEW MORE" + '</div>'+
+											'</div><div class="arrow"></div><div class="close"></div>'+
+										'</div>'+
+									'</div>'+
+								'</div>'
+					}
+				,
+					{
+						latLng: [40.712415,-73.960541],
+						options: {
+							icon: "http://preview.ait-themes.com/directory/wp1/wp-content/uploads/company2.png",
+							shadow: "http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/map-icon/icon-shadow.png",
+						},
+						data: 	'<div class="marker-holder">'+
+									'<div class="marker-content with-image"><img src="http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/tn.php?src=http%3A%2F%2Fpreview.ait-themes.com%2Fdirectory%2Fwp1%2Fwp-content%2Fuploads%2Fbigstock-Business-Consultation-1216265.jpg&amp;w=120&amp;h=160" alt="">'+
+										'<div class="map-item-info">'+
+											'<div class="title">'+"Business PRO"+'</div>'+
+											'<div class="address">'+"749 Driggs Ave Brooklyn, NY 11211"+'</div>'+
+											'<div data-link="http://preview.ait-themes.com/directory/wp1/item/abc-work/" class="more-button">' + "VIEW MORE" + '</div>'+
+											'</div><div class="arrow"></div><div class="close"></div>'+
+										'</div>'+
+									'</div>'+
+								'</div>'
+					}
+				,
+					{
+						latLng: [40.706457520637585,-74.00463581085205],
+						options: {
+							icon: "http://preview.ait-themes.com/directory/wp1/wp-content/uploads/company2.png",
+							shadow: "http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/map-icon/icon-shadow.png",
+						},
+						data: 	'<div class="marker-holder">'+
+									'<div class="marker-content with-image"><img src="http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/tn.php?src=http%3A%2F%2Fpreview.ait-themes.com%2Fdirectory%2Fwp1%2Fwp-content%2Fuploads%2Fbigstock-Business-Presentation-3654449.jpg&amp;w=120&amp;h=160" alt="">'+
+										'<div class="map-item-info">'+
+											'<div class="title">'+"Pro Agent"+'</div>'+
+											'<div class="address">'+"25 W 25th St 1204, New York, NY 10036 "+'</div>'+
+											'<div data-link="http://preview.ait-themes.com/directory/wp1/item/bb-consult/" class="more-button">' + "VIEW MORE" + '</div>'+
+											'</div><div class="arrow"></div><div class="close"></div>'+
+										'</div>'+
+									'</div>'+
+								'</div>'
+					}
+				,
+					{
+						latLng: [40.71408594127331,-73.97918701171875],
+						options: {
+							icon: "http://preview.ait-themes.com/directory/wp1/wp-content/uploads/company2.png",
+							shadow: "http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/map-icon/icon-shadow.png",
+						},
+						data: 	'<div class="marker-holder">'+
+									'<div class="marker-content with-image"><img src="http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/tn.php?src=http%3A%2F%2Fpreview.ait-themes.com%2Fdirectory%2Fwp1%2Fwp-content%2Fuploads%2Fbigstock-Real-Estate-Agent-Consulting-A-7014538.jpg&amp;w=120&amp;h=160" alt="">'+
+										'<div class="map-item-info">'+
+											'<div class="title">'+"AVA Consult Center"+'</div>'+
+											'<div class="address">'+"71 5th Ave, New York, NY 10003"+'</div>'+
+											'<div data-link="http://preview.ait-themes.com/directory/wp1/item/pro-ads/" class="more-button">' + "VIEW MORE" + '</div>'+
+											'</div><div class="arrow"></div><div class="close"></div>'+
+										'</div>'+
+									'</div>'+
+								'</div>'
+					}
+				,
+					{
+						latLng: [40.71746884168838,-73.97819995880127],
+						options: {
+							icon: "http://preview.ait-themes.com/directory/wp1/wp-content/uploads/automotive1.png",
+							shadow: "http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/map-icon/icon-shadow.png",
+						},
+						data: 	'<div class="marker-holder">'+
+									'<div class="marker-content with-image"><img src="http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/tn.php?src=http%3A%2F%2Fpreview.ait-themes.com%2Fdirectory%2Fwp1%2Fwp-content%2Fuploads%2Fbigstock-New-Cars-1013451.jpg&amp;w=120&amp;h=160" alt="">'+
+										'<div class="map-item-info">'+
+											'<div class="title">'+"Car PRO"+'</div>'+
+											'<div class="address">'+"10 State Street Manhattan, NY 11201, United States"+'</div>'+
+											'<div data-link="http://preview.ait-themes.com/directory/wp1/item/car-pro/" class="more-button">' + "VIEW MORE" + '</div>'+
+											'</div><div class="arrow"></div><div class="close"></div>'+
+										'</div>'+
+									'</div>'+
+								'</div>'
+					}
+				,
+					{
+						latLng: [40.71492355836883,-74.01167711917117],
+						options: {
+							icon: "http://preview.ait-themes.com/directory/wp1/wp-content/uploads/automotive1.png",
+							shadow: "http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/map-icon/icon-shadow.png",
+						},
+						data: 	'<div class="marker-holder">'+
+									'<div class="marker-content with-image"><img src="http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/tn.php?src=http%3A%2F%2Fpreview.ait-themes.com%2Fdirectory%2Fwp1%2Fwp-content%2Fuploads%2Fbigstock-Cars-26611895.jpg&amp;w=120&amp;h=160" alt="">'+
+										'<div class="map-item-info">'+
+											'<div class="title">'+"Car AVA"+'</div>'+
+											'<div class="address">'+"86 Murray Street Street Manhattan, NY 11201, United States"+'</div>'+
+											'<div data-link="http://preview.ait-themes.com/directory/wp1/item/car-license/" class="more-button">' + "VIEW MORE" + '</div>'+
+											'</div><div class="arrow"></div><div class="close"></div>'+
+										'</div>'+
+									'</div>'+
+								'</div>'
+					}
+				,
+					{
+						latLng: [40.70310660279219,-73.98577770892337],
+						options: {
+							icon: "http://preview.ait-themes.com/directory/wp1/wp-content/uploads/automotive1.png",
+							shadow: "http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/map-icon/icon-shadow.png",
+						},
+						data: 	'<div class="marker-holder">'+
+									'<div class="marker-content with-image"><img src="http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/tn.php?src=http%3A%2F%2Fpreview.ait-themes.com%2Fdirectory%2Fwp1%2Fwp-content%2Fuploads%2Fbigstock-Man-buying-a-car-in-dealership-13752848.jpg&amp;w=120&amp;h=160" alt="">'+
+										'<div class="map-item-info">'+
+											'<div class="title">'+"WRC Cars"+'</div>'+
+											'<div class="address">'+"10 Water Street Brooklyn, NY 11201, United States"+'</div>'+
+											'<div data-link="http://preview.ait-themes.com/directory/wp1/item/wrc-cars/" class="more-button">' + "VIEW MORE" + '</div>'+
+											'</div><div class="arrow"></div><div class="close"></div>'+
+										'</div>'+
+									'</div>'+
+								'</div>'
+					}
+				,
+					{
+						latLng: [40.72106298503115,-74.04534101486206],
+						options: {
+							icon: "http://preview.ait-themes.com/directory/wp1/wp-content/uploads/automotive1.png",
+							shadow: "http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/map-icon/icon-shadow.png",
+						},
+						data: 	'<div class="marker-holder">'+
+									'<div class="marker-content with-image"><img src="http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/tn.php?src=http%3A%2F%2Fpreview.ait-themes.com%2Fdirectory%2Fwp1%2Fwp-content%2Fuploads%2Fbigstock-Mechanic-with-clipboard-giving-30901274.jpg&amp;w=120&amp;h=160" alt="">'+
+										'<div class="map-item-info">'+
+											'<div class="title">'+"Cypro Car Consult"+'</div>'+
+											'<div class="address">'+"184 Bay Street Jersey City, NJ 07302, United States<br \/>\n"+'</div>'+
+											'<div data-link="http://preview.ait-themes.com/directory/wp1/item/cypro-car-service/" class="more-button">' + "VIEW MORE" + '</div>'+
+											'</div><div class="arrow"></div><div class="close"></div>'+
+										'</div>'+
+									'</div>'+
+								'</div>'
+					}
+				,
+					{
+						latLng: [40.695542,-73.995262],
+						options: {
+							icon: "http://preview.ait-themes.com/directory/wp1/wp-content/uploads/automotive1.png",
+							shadow: "http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/map-icon/icon-shadow.png",
+						},
+						data: 	'<div class="marker-holder">'+
+									'<div class="marker-content with-image"><img src="http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/tn.php?src=http%3A%2F%2Fpreview.ait-themes.com%2Fdirectory%2Fwp1%2Fwp-content%2Fuploads%2Fbigstock-Cars-Lot-For-Sale-7870578.jpg&amp;w=120&amp;h=160" alt="">'+
+										'<div class="map-item-info">'+
+											'<div class="title">'+"Viktor's Cars"+'</div>'+
+											'<div class="address">'+"107 Montague Street Brooklyn, NY 11201, United States"+'</div>'+
+											'<div data-link="http://preview.ait-themes.com/directory/wp1/item/viktors-cars/" class="more-button">' + "VIEW MORE" + '</div>'+
+											'</div><div class="arrow"></div><div class="close"></div>'+
+										'</div>'+
+									'</div>'+
+								'</div>'
+					}
+				,
+					{
+						latLng: [40.71493168249224,-73.95352363586426],
+						options: {
+							icon: "http://preview.ait-themes.com/directory/wp1/wp-content/uploads/automotive1.png",
+							shadow: "http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/map-icon/icon-shadow.png",
+						},
+						data: 	'<div class="marker-holder">'+
+									'<div class="marker-content with-image"><img src="http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/tn.php?src=http%3A%2F%2Fpreview.ait-themes.com%2Fdirectory%2Fwp1%2Fwp-content%2Fuploads%2Fbigstock-Business-man-working-at-a-car-30747773.jpg&amp;w=120&amp;h=160" alt="">'+
+										'<div class="map-item-info">'+
+											'<div class="title">'+"LLA - Car"+'</div>'+
+											'<div class="address">'+"330 Adams Street Brooklyn, NY 11201, United States<br \/>\n"+'</div>'+
+											'<div data-link="http://preview.ait-themes.com/directory/wp1/item/lll-rent-a-car/" class="more-button">' + "VIEW MORE" + '</div>'+
+											'</div><div class="arrow"></div><div class="close"></div>'+
+										'</div>'+
+									'</div>'+
+								'</div>'
+					}
+				
+			],
+			options:{
+				draggable: false
+			},
+			cluster:{
+				radius: 20,
+				// This style will be used for clusters with more than 0 markers
+				0: {
+					content: "<div class='cluster cluster-1'>CLUSTER_COUNT</div>",
+					width: 90,
+					height: 80
+				},
+				// This style will be used for clusters with more than 20 markers
+				20: {
+					content: "<div class='cluster cluster-2'>CLUSTER_COUNT</div>",
+					width: 90,
+					height: 80
+				},
+				// This style will be used for clusters with more than 50 markers
+				50: {
+					content: "<div class='cluster cluster-3'>CLUSTER_COUNT</div>",
+					width: 90,
+					height: 80
+				},
+				events: {
+					click: function(cluster) {
+						map.panTo(cluster.main.getPosition());
+						map.setZoom(map.getZoom() + 2);
+					}
+				}
+			},
+			events: {
+				click: function(marker, event, context){
+					map.panTo(marker.getPosition());
+
+					infobox.setContent(context.data);
+					infobox.open(map,marker);
+
+					// if map is small
+					var iWidth = 260;
+					var iHeight = 300;
+					if((mapDiv.width() / 2) < iWidth ){
+						var offsetX = iWidth - (mapDiv.width() / 2);
+						map.panBy(offsetX,0);
+					}
+					if((mapDiv.height() / 2) < iHeight ){
+						var offsetY = -(iHeight - (mapDiv.height() / 2));
+						map.panBy(0,offsetY);
+					}
+
+				}
+			}
+		}
+		 		 	},"autofit");
+
+	map = mapDiv.gmap3("get");
+	infobox = new InfoBox({
+		pixelOffset: new google.maps.Size(-50, -65),
+		closeBoxURL: '',
+		enableEventPropagation: true
+	});
+	mapDiv.delegate('.infoBox .close','click',function () {
+		infobox.close();
+	});
+	// hotfix for chrome on android
+	mapDiv.delegate('.infoBox div.more-button', 'click', function() {
+		window.location = $(this).data('link');
+	});
+
+	if (Modernizr.touch){
+		map.setOptions({ draggable : false });
+		var draggableClass = 'inactive';
+		var draggableTitle = "Activate map";
+		var draggableButton = $('<div class="draggable-toggle-button '+draggableClass+'">'+draggableTitle+'</div>').appendTo(mapDiv);
+		draggableButton.click(function () {
+			if($(this).hasClass('active')){
+				$(this).removeClass('active').addClass('inactive').text("Activate map");
+				map.setOptions({ draggable : false });
+			} else {
+				$(this).removeClass('inactive').addClass('active').text("Deactivate map");
+				map.setOptions({ draggable : true });
+			}
+		});
+	}
+
+
+// loading spinner
+var opts = {
+	lines: 13, // The number of lines to draw
+	length: 9, // The length of each line
+	width: 9, // The line thickness
+	radius: 27, // The radius of the inner circle
+	corners: 1, // Corner roundness (0..1)
+	rotate: 0, // The rotation offset
+	color: '#FFF', // #rgb or #rrggbb
+	speed: 1.8, // Rounds per second
+	trail: 81, // Afterglow percentage
+	shadow: true, // Whether to render a shadow
+	hwaccel: false, // Whether to use hardware acceleration
+	className: 'spinner', // The CSS class to assign to the spinner
+	zIndex: 2e9, // The z-index (defaults to 2000000000)
+	top: 'auto', // Top position relative to parent in px
+	left: 'auto' // Left position relative to parent in px
+};
+var target = document.getElementById('directory-main-bar');
+var spinner = new Spinner(opts).spin(target);
+var spinnerDiv = mapDiv.find('.spinner');
+
+var search = $('#directory-search'),
+	searchInput = $('#dir-searchinput-text'),
+	categoryInput = $('#dir-searchinput-category'),
+	locationInput = $('#dir-searchinput-location'),
+	geoInput = $('#dir-searchinput-geo'),
+	geoRadiusInput = $('#dir-searchinput-geo-radius');
+
+// find location before submit form for classic search
+$('#dir-search-form').submit(function(event) {
+	if(geoInput.is(':checked')){
+		mapDiv.gmap3({
+			getgeoloc:{
+				callback : function(latLng){
+					if (latLng){
+						$('#dir-searchinput-geo-lat').val(latLng.lat());
+						$('#dir-searchinput-geo-lng').val(latLng.lng());
+					}
+					$('#dir-search-form').submit();
+				}
+			}
+		});
+		if(!event.hasOwnProperty('isTrigger')) {
+			return false;
+		}
+	}
+});
+
+// set interactive search
+if(search.data('interactive') == 'yes'){
+	searchInput.typeWatch({
+		callback: function() {
+			ajaxGetMarkers(true,false);
+		},
+		wait: 500,
+		highlight: false,
+		captureLength: 0
+	});
+
+	categoryInput.on( "autocompleteselect", function( event, ui ) {
+		ajaxGetMarkers(true,false,ui.item.value,false);
+	});
+	locationInput.on( "autocompleteselect", function( event, ui ) {
+		ajaxGetMarkers(true,false,false,ui.item.value);
+	});
+	categoryInput.on( "autocompleteclose", function( event, ui ) {
+		if($('#dir-searchinput-category-id').val() == '0'){
+			ajaxGetMarkers(true,false);
+		}
+	});
+	locationInput.on( "autocompleteclose", function( event, ui ) {
+		if($('#dir-searchinput-location-id').val() == '0'){
+			ajaxGetMarkers(true,false);
+		}
+	});
+}
+
+// ajax geolocation
+$('#dir-searchinput-geo').FancyCheckbox().bind("afterChangeIphone",function(event) {
+	if($(this).is(':checked')){
+		mapDiv.gmap3({
+			getgeoloc:{
+				callback : function(latLng){
+					if (latLng){
+						$('#dir-searchinput-geo-lat').val(latLng.lat());
+						$('#dir-searchinput-geo-lng').val(latLng.lng());
+						if(search.data('interactive') == 'yes'){
+							ajaxGetMarkers(true,false);
+						}
+					}
+				}
+			}
+		});
+	} else {
+		if(search.data('interactive') == 'yes'){
+			ajaxGetMarkers(true,false);
+		}
+	}
+});
+
+$('#dir-searchinput-settings .icon').click(function() {
+	$('#dir-search-advanced').toggle();
+});
+
+$('#dir-search-advanced-close').click(function() {
+	$('#dir-search-advanced').hide();
+});
+
+$('#dir-search-advanced .value-slider').slider({
+	value: $('#dir-searchinput-geo-radius').val(),
+	min: 5,
+	max: 1000,
+	step: 5,
+	change: function( event, ui ) {
+		if(search.data('interactive') == 'yes' && geoInput.is(':checked')){
+			ajaxGetMarkers(true,false);
+		}
+	},
+	slide: function( event, ui ) {
+		$( "#dir-searchinput-geo-radius" ).val( ui.value );
+	}
+});
+
+function ajaxGetMarkers(ajax,geoloc,rewriteCategory,rewriteLocation,reset) {
+
+	//map.panTo(new google.maps.LatLng(0,0));
+	var topPosition = mapDiv.height() / 2;
+	spinnerDiv.css('top',topPosition+'px').fadeIn();
+
+	radius = new Array();
+
+	var category = 0;
+	var location = 0;
+	var search = '';
+
+	if(ajax){
+		if(rewriteCategory){
+			category = rewriteCategory;
+		} else {
+			category = $('#dir-searchinput-category-id').val();
+		}
+		if(rewriteLocation){
+			location = rewriteLocation;
+		} else {
+			location = $('#dir-searchinput-location-id').val();
+		}
+		search = $('#dir-searchinput-text').val();
+
+		var ajaxGeo = $('#dir-searchinput-geo').attr("checked");
+
+		if(ajaxGeo && !reset){
+			var inputRadius = $('#dir-searchinput-geo-radius').val();
+			if(!isNaN(inputRadius)){
+				radius.push(parseInt(inputRadius));
+			} else {
+				$('#dir-searchinput-geo-radius').val($('#dir-searchinput-geo-radius').data('default-value'));
+				radius.push(parseInt($('#dir-searchinput-geo-radius').data('default-value')));
+			}
+			radius.push(parseFloat($('#dir-searchinput-geo-lat').val()));
+			radius.push(parseFloat($('#dir-searchinput-geo-lng').val()));
+		}
+	} else {
+		if(reset){
+			category = parseInt(mapDiv.data('category'));
+			location = parseInt(mapDiv.data('location'));
+			search = mapDiv.data('search');
+		} else {
+			if(geoloc){
+				radius.push(parseInt(100));
+				radius.push(geoloc.lat());
+				radius.push(geoloc.lng());
+
+				category = parseInt(mapDiv.data('category'));
+				location = parseInt(mapDiv.data('location'));
+				search = mapDiv.data('search');
+			}
+		}
+	}
+	// get items from ajax
+	$.post(
+		// MyAjax defined in functions.php
+		MyAjax.ajaxurl,
+	    {
+	        action : 'get_items',
+	        category : category,
+	        location : location,
+	        search : search,
+	        radius : radius
+	    },
+	    function( response ) {
+	    	// show reset ajax button
+	    	if((!reset) && (!geoloc)){
+	    		$('#directory-search .reset-ajax').show();
+	    	}
+	    	if((!reset) && (!geoloc)){
+	    		generateContent(response);
+	    	}
+	    	if(ajaxGeo && !reset){
+	    		var ajaxGeoObj = new google.maps.LatLng(parseFloat($('#dir-searchinput-geo-lat').val()),parseFloat($('#dir-searchinput-geo-lng').val()));
+	    		generateMarkers(response,ajaxGeoObj,true);
+	    	} else {
+	    		generateMarkers(response,geoloc);
+	    	}
+	    }
+	)
+	.fail(function(e) { console.log("AJAX ERROR", e); });
+}
+
+function generateMarkers(dataRaw,geoloc,ajaxGeo) {
+	
+	// clear map
+	infobox.close();
+	mapDiv.gmap3({ clear: { } });
+
+	map.setZoom(10);
+	
+	var len = $.map(dataRaw, function(n, i) { return i; }).length;
+
+	var i = 0;
+	// prepare data
+	var data = new Array();
+    for(var key in dataRaw){
+    	
+    	var rating = '';
+		if(dataRaw[key].rating){
+			rating += '<div class="rating">';
+			for (var j = 1; j <= dataRaw[key].rating['max']; j++) {
+				rating += '<div class="star';
+				if(j <= dataRaw[key].rating['val']) {
+					rating += ' active';
+				}
+				rating += '"></div>';
+			}
+			rating += '</div>';
+		}
+
+    	var thumbCode = (dataRaw[key].timthumbUrl) ? ' with-image"><img src="'+dataRaw[key].timthumbUrl+'" alt="" />' : '">';
+    	data[i] = { 
+			latLng: [dataRaw[key].optionsDir['gpsLatitude'],dataRaw[key].optionsDir['gpsLongitude']], 
+			options: { 
+				icon: dataRaw[key].marker,
+				shadow: "http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/map-icon/icon-shadow.png",
+			},
+			data: '<div class="marker-holder"><div class="marker-content'+thumbCode+'<div class="map-item-info"><div class="title">'+dataRaw[key].post_title+'</div>'+rating+'<div class="address">'+dataRaw[key].optionsDir["address"]+'</div><a href="'+dataRaw[key].link+'" class="more-button">VIEW MORE</a></div><div class="arrow"></div><div class="close"></div></div></div></div>'
+		};
+		i++;
+    }
+
+    // show geoloc marker
+    if(geoloc){
+    	mapDiv.gmap3({
+			marker: {
+    			latLng: geoloc,
+    			options: {
+    				animation: google.maps.Animation.DROP,
+    				zIndex: 1000,
+    				icon: "http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/geolocation-pin.png"
+    			}
+    		}
+    	});
+	}
+
+	// generate markers in map
+	var mapObj = {
+		marker: {
+			values: data,
+			options:{
+				draggable: false
+			},
+			cluster:{
+          		radius: 20,
+				// This style will be used for clusters with more than 0 markers
+				0: {
+					content: "<div class='cluster cluster-1'>CLUSTER_COUNT</div>",
+					width: 90,
+					height: 80
+				},
+				// This style will be used for clusters with more than 20 markers
+				20: {
+					content: "<div class='cluster cluster-2'>CLUSTER_COUNT</div>",
+					width: 90,
+					height: 80
+				},
+				// This style will be used for clusters with more than 50 markers
+				50: {
+					content: "<div class='cluster cluster-3'>CLUSTER_COUNT</div>",
+					width: 90,
+					height: 80
+				},
+				events: {
+					click: function(cluster) {
+						map.panTo(cluster.main.getPosition());
+						map.setZoom(map.getZoom() + 2);
+					}
+				}	
+          	},
+			events: {
+				click: function(marker, event, context){
+					map.panTo(marker.getPosition());
+
+					infobox.setContent(context.data);
+					infobox.open(map,marker);
+
+					// if map is small
+					var iWidth = 260;
+					var iHeight = 300;
+					if((mapDiv.width() / 2) < iWidth ){
+						var offsetX = iWidth - (mapDiv.width() / 2);
+						map.panBy(offsetX,0);
+					}
+					if((mapDiv.height() / 2) < iHeight ){
+						var offsetY = -(iHeight - (mapDiv.height() / 2));
+						map.panBy(0,offsetY);
+					}
+
+				}
+			}
+		}
+	};
+
+	if(geoloc){
+		if(ajaxGeo){
+			var inputRadius = $('#dir-searchinput-geo-radius').val();
+			if(!isNaN(inputRadius)){
+				var radiusInM = parseInt($('#dir-searchinput-geo-radius').val()) * 1000;
+			} else {
+				var radiusInM = parseInt($('#dir-searchinput-geo-radius').data('default-value')) * 1000;
+			}
+			// autofit by circle
+			mapObj.circle = {
+				options: {
+					center: geoloc,
+					radius : radiusInM,
+					visible : true,
+					fillOpacity : 0.15,
+					fillColor : "#2c82be",
+					strokeColor : "#2c82be"
+				}
+			}
+		} else {
+			var radiusInM = parseInt(100) * 1000;
+			// autofit by circle
+			mapObj.circle = {
+				options: {
+					center: geoloc,
+					radius : radiusInM,
+					visible : false,
+					fillOpacity : 0.15,
+					fillColor : "#2c82be",
+					strokeColor : "#2c82be"
+				}
+			}
+		}
+	}
+
+	spinnerDiv.fadeOut();
+
+	mapDiv.gmap3( mapObj, "autofit" );
+
+	if(len == 1 && !geoloc){
+		map.setZoom(10);
+	}
+
+}
+
+function generateOnlyGeo(lat,lng,radius) {
+	var geoloc = new google.maps.LatLng(parseFloat(lat),parseFloat(lng));
+	// generate geo pin
+	mapDiv.gmap3({
+		marker: {
+			latLng: geoloc,
+			options: {
+				animation: google.maps.Animation.DROP,
+				zIndex: 1000,
+				icon: "http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/geolocation-pin.png"
+			}
+		}
+	});
+	// generate and autofit by circle
+	var mapObj = {};
+	var radiusInM = parseInt(radius) * 1000;
+	// autofit by circle
+	mapObj.circle = {
+		options: {
+			center: geoloc,
+			radius : radiusInM,
+			visible : true,
+			fillOpacity : 0.15,
+			fillColor : "#2c82be",
+			strokeColor : "#2c82be"
+		}
+	}
+	mapDiv.gmap3( mapObj, "autofit" );
+}
+
+var contentDiv = $('#main #content');
+var currContent = contentDiv.html();
+var ajaxContent;
+
+function generateContent(data) {
+
+	var length = $.map(data, function(n, i) { return i; }).length;
+
+	contentDiv.find('.ajax-content').remove();
+	var title;
+	if(length == 0){
+		title = $('<header class="entry-header"><h1 class="entry-title"><span>No result found</span></h1></header>');
+	} else {
+		title = $('<header class="entry-header"><h1 class="entry-title"><span>Search result</span></h1></header>');
+	}
+	
+	var html;
+	if(length > 0){
+		html = $('<ul class="items"></ul>');
+	}
+	var limit = 30;
+	if(limit > length) {
+		limit = length;
+	}
+	var i = 0;
+	for(var key in data){
+		var thumbnailHtml;
+		if(data[key].timthumbUrlContent){
+			var thumbnailHtml = '<div class="thumbnail"><img src="'+data[key].timthumbUrlContent+'" alt="Item thumbnail" /><div class="comment-count">'+data[key].comment_count+'</div></div>';
+		} else {
+			thumbnailHtml = '';
+		}
+		var rating = '';
+		if(data[key].rating){
+			rating += '<span class="rating">';
+			for (var i = 1; i <= data[key].rating['max']; i++) {
+				rating += '<span class="star';
+				if(i <= data[key].rating['val']) {
+					rating += ' active';
+				}
+				rating += '"></span>';
+			}
+			rating += '</span>';
+		}
+		var descriptionHtml = '<div class="description"><h3><a href="'+data[key].link+'">'+data[key].post_title+'</a>'+rating+'</h3>'+data[key].excerptDir+'</div>';
+		html.append('<li class="item clear">'+thumbnailHtml+descriptionHtml+'</li>');
+		if(i <= limit){
+			i++;
+		} else {
+			break;
+		}
+	};
+	ajaxContent = $('<div class="ajax-content"></div>').html(title).append(html);
+	contentDiv.find('>').hide();
+	contentDiv.append(ajaxContent);
+}
+
+// reset search ajax values
+$('#directory-search .reset-ajax').click(function () {
+	
+	// get default values
+	ajaxGetMarkers(false,false,false,false,true);
+
+	contentDiv.find('.ajax-content').remove();
+	contentDiv.find('>').show();
+
+	$('#dir-searchinput-text').val("");
+	// for IE
+	$('span.for-dir-searchinput-text label').show();
+
+	$('#dir-searchinput-location').val("");
+	$('#dir-searchinput-location-id').val("0");
+	// for IE
+	$('span.for-dir-searchinput-category label').show();
+
+	$('#dir-searchinput-category').val("");
+	$('#dir-searchinput-category-id').val("0");
+	// for IE
+	$('span.for-dir-searchinput-location label').show();
+
+	$('#dir-searchinput-geo').attr('checked',false);
+	$('div.iphone-style[rel=dir-searchinput-geo]').removeClass('on').addClass('off');
+
+	//$('#dir-searchinput-geo-radius').val($('#dir-searchinput-geo-radius').data('default-value'));
+	
+	// hide close icon
+	$(this).hide();
+});
+
+
+});
+</script>
+			<div id="directory-search" data-interactive="yes">
+				<div class="defaultContentWidth clearfix">
+					<form action="http://preview.ait-themes.com/directory/wp1/" id="dir-search-form" method="get" class="dir-searchform">
+						<div id="dir-search-inputs">
+							<div id="dir-holder">
+								<div class="dir-holder-wrap">
+								<input type="text" name="s" id="dir-searchinput-text" placeholder="Search keyword..." class="dir-searchinput" />
+
+								<div id="dir-searchinput-settings" class="dir-searchinput-settings">
+									<div class="icon"></div>
+									<div id="dir-search-advanced" style="display: none;">
+										<div class="text">Search around my position</div>
+										<div class="text-geo-radius clear">
+											<div class="geo-radius">Radius:</div>
+											<div class="metric">km</div>
+											<input type="text" name="geo-radius" id="dir-searchinput-geo-radius" value="100" data-default-value="100" />
+										</div>
+										<div class="geo-slider">
+											<div class="value-slider"></div>
+										</div>
+										<div class="geo-button">
+											<input type="checkbox" name="geo" id="dir-searchinput-geo" />
+										</div>
+										<div id="dir-search-advanced-close"></div>
+									</div>
+								</div>
+								<input type="hidden" name="geo-lat" id="dir-searchinput-geo-lat" value="" />
+								<input type="hidden" name="geo-lng" id="dir-searchinput-geo-lng" value="" />
+
+								<input type="text" id="dir-searchinput-category" placeholder="All categories" />
+								<input type="text" name="categories" id="dir-searchinput-category-id" value="0" style="display: none;" />
+
+								<input type="text" id="dir-searchinput-location" placeholder="All locations" />
+								<input type="text" name="locations" id="dir-searchinput-location-id" value="0" style="display: none;" />
+
+								<div class="reset-ajax"></div>
+								</div>
+							</div>
+						</div>
+
+						<div id="dir-search-button">
+							<input type="submit" value="Search" class="dir-searchsubmit" />
+						</div>
+						<input type="hidden" name="dir-search" value="yes" />
+					</form>
+				</div>
+			</div>
+
+
+<div id="main" class="defaultContentWidth">
+	<div id="wrapper-row">
+		<div id="primary" class="">
+
+			<div id="content" role="main">
+				
+
+	
+
+
+	<nav id="nav-above">
+		
+		
+
+		<div class="nav-previous"></div>
+		<div class="nav-next"><a href="http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/bck_00-05.png/page/2/" ><span class="meta-nav">&rarr;</span> Older posts</a></div>
+	</nav>
+
+
+<article id="post-7639" class="post-7639 post type-post status-publish format-standard hentry category-dress category-flowers-2 category-happiness tag-wedding-2">
+
+	<header class="entry-header">
+
+		<h1 class="entry-title">
+			<a href="http://preview.ait-themes.com/directory/wp1/bon-appetit/" title="Permalink to Bon Appetit!" rel="bookmark">Bon Appetit!</a>
+		</h1>
+
+	</header>
+
+	<a href="http://preview.ait-themes.com/directory/wp1/bon-appetit/">
+		<div class="entry-thumbnail">
+			<img src="http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/tn.php?src=http%3A%2F%2Fpreview.ait-themes.com%2Fdirectory%2Fwp1%2Fwp-content%2Fuploads%2Fbigstock-Pepperoni-Pizza-Slice-2471467.jpg&amp;w=629&amp;h=250" alt="" />
+		</div>
+	</a>
+
+	<div class="entry-meta">
+		<span class="sep blog-date">On: </span>
+		<a href="http://preview.ait-themes.com/directory/wp1/2012/05/02/" title="May 2, 2012" rel="bookmark"><time class="entry-date" datetime="May 2, 2012" pubdate="">May 2, 2012</time></a>
+		<span class="by-author">
+			<span class="sep blog-author"> By: </span>
+			<span class="author vcard">
+				<a class="url fn n" href="http://preview.ait-themes.com/directory/wp1/author/admin/" title="View all posts by admin" rel="author"> admin</a>
+			</span>
+		</span>
+
+		<span class="cat-links">
+			<span class="sep blog-categories entry-utility-prep entry-utility-prep-cat-links">Posted in</span>
+			<a href="http://preview.ait-themes.com/directory/wp1/category/dress/" title="View all posts in Dress" rel="category tag">Dress</a>, <a href="http://preview.ait-themes.com/directory/wp1/category/flowers-2/" title="View all posts in Flowers" rel="category tag">Flowers</a>, <a href="http://preview.ait-themes.com/directory/wp1/category/happiness/" title="View all posts in happiness" rel="category tag">happiness</a>
+		</span>
+		<div class="comments-link">
+			<a href="http://preview.ait-themes.com/directory/wp1/bon-appetit/#comments" title="Comment on Bon Appetit!">0</a>
+		</div>
+		<span class="edit-link"></span>
+	</div>
+
+	<div class="entry-content">
+		<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.</p>
+<p>Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</p>
+<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p>
+
+	</div>
+
+</article><!-- /#post-7639 -->
+<article id="post-4595" class="post-4595 post type-post status-publish format-standard hentry category-wedding-2 tag-flowers-2 tag-photography tag-wedding-2">
+
+	<header class="entry-header">
+
+		<h1 class="entry-title">
+			<a href="http://preview.ait-themes.com/directory/wp1/our-nyc-honeymoon/" title="Permalink to Our Honeymoon" rel="bookmark">Our Honeymoon</a>
+		</h1>
+
+	</header>
+
+	<a href="http://preview.ait-themes.com/directory/wp1/our-nyc-honeymoon/">
+		<div class="entry-thumbnail">
+			<img src="http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/tn.php?src=http%3A%2F%2Fpreview.ait-themes.com%2Fdirectory%2Fwp1%2Fwp-content%2Fuploads%2FNew-York-City-Manhattan.jpg&amp;w=629&amp;h=250" alt="" />
+		</div>
+	</a>
+
+	<div class="entry-meta">
+		<span class="sep blog-date">On: </span>
+		<a href="http://preview.ait-themes.com/directory/wp1/2012/04/14/" title="April 14, 2012" rel="bookmark"><time class="entry-date" datetime="April 14, 2012" pubdate="">April 14, 2012</time></a>
+		<span class="by-author">
+			<span class="sep blog-author"> By: </span>
+			<span class="author vcard">
+				<a class="url fn n" href="http://preview.ait-themes.com/directory/wp1/author/admin/" title="View all posts by admin" rel="author"> admin</a>
+			</span>
+		</span>
+
+		<span class="cat-links">
+			<span class="sep blog-categories entry-utility-prep entry-utility-prep-cat-links">Posted in</span>
+			<a href="http://preview.ait-themes.com/directory/wp1/category/wedding-2/" title="View all posts in Wedding" rel="category tag">Wedding</a>
+		</span>
+		<div class="comments-link">
+			<a href="http://preview.ait-themes.com/directory/wp1/our-nyc-honeymoon/#comments" title="Comment on Our Honeymoon">2</a>
+		</div>
+		<span class="edit-link"></span>
+	</div>
+
+	<div class="entry-content">
+		<p>Lorem ipsum dolor sit consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<p> <a href="http://preview.ait-themes.com/directory/wp1/our-nyc-honeymoon/#more-4595" class="more-link">(more&hellip;)</a></p>
+
+	</div>
+
+</article><!-- /#post-4595 -->
+<article id="post-52" class="post-52 post type-post status-publish format-standard hentry category-wedding-2 tag-flowers-2">
+
+	<header class="entry-header">
+
+		<h1 class="entry-title">
+			<a href="http://preview.ait-themes.com/directory/wp1/first-golf-game-experience/" title="Permalink to Golf Experience" rel="bookmark">Golf Experience</a>
+		</h1>
+
+	</header>
+
+	<a href="http://preview.ait-themes.com/directory/wp1/first-golf-game-experience/">
+		<div class="entry-thumbnail">
+			<img src="http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/tn.php?src=http%3A%2F%2Fpreview.ait-themes.com%2Fdirectory%2Fwp1%2Fwp-content%2Fuploads%2Fbigstock-Ball-view-from-golf-course-26935142.jpg&amp;w=629&amp;h=250" alt="" />
+		</div>
+	</a>
+
+	<div class="entry-meta">
+		<span class="sep blog-date">On: </span>
+		<a href="http://preview.ait-themes.com/directory/wp1/2012/03/30/" title="March 30, 2012" rel="bookmark"><time class="entry-date" datetime="March 30, 2012" pubdate="">March 30, 2012</time></a>
+		<span class="by-author">
+			<span class="sep blog-author"> By: </span>
+			<span class="author vcard">
+				<a class="url fn n" href="http://preview.ait-themes.com/directory/wp1/author/admin/" title="View all posts by admin" rel="author"> admin</a>
+			</span>
+		</span>
+
+		<span class="cat-links">
+			<span class="sep blog-categories entry-utility-prep entry-utility-prep-cat-links">Posted in</span>
+			<a href="http://preview.ait-themes.com/directory/wp1/category/wedding-2/" title="View all posts in Wedding" rel="category tag">Wedding</a>
+		</span>
+		<div class="comments-link">
+			<a href="http://preview.ait-themes.com/directory/wp1/first-golf-game-experience/#comments" title="Comment on Golf Experience">1</a>
+		</div>
+		<span class="edit-link"></span>
+	</div>
+
+	<div class="entry-content">
+		<p>Lorem ipsum dolor sit consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<p> <a href="http://preview.ait-themes.com/directory/wp1/first-golf-game-experience/#more-52" class="more-link">(more&hellip;)</a></p>
+
+	</div>
+
+</article><!-- /#post-52 -->
+<article id="post-46" class="post-46 post type-post status-publish format-standard hentry category-uncategorized tag-photography">
+
+	<header class="entry-header">
+
+		<h1 class="entry-title">
+			<a href="http://preview.ait-themes.com/directory/wp1/we-love-to-travel/" title="Permalink to We Love to Travel" rel="bookmark">We Love to Travel</a>
+		</h1>
+
+	</header>
+
+	<a href="http://preview.ait-themes.com/directory/wp1/we-love-to-travel/">
+		<div class="entry-thumbnail">
+			<img src="http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/tn.php?src=http%3A%2F%2Fpreview.ait-themes.com%2Fdirectory%2Fwp1%2Fwp-content%2Fuploads%2Fbigstock-Tab-And-Travel-28265309.jpg&amp;w=629&amp;h=250" alt="" />
+		</div>
+	</a>
+
+	<div class="entry-meta">
+		<span class="sep blog-date">On: </span>
+		<a href="http://preview.ait-themes.com/directory/wp1/2012/01/22/" title="January 22, 2012" rel="bookmark"><time class="entry-date" datetime="January 22, 2012" pubdate="">January 22, 2012</time></a>
+		<span class="by-author">
+			<span class="sep blog-author"> By: </span>
+			<span class="author vcard">
+				<a class="url fn n" href="http://preview.ait-themes.com/directory/wp1/author/admin/" title="View all posts by admin" rel="author"> admin</a>
+			</span>
+		</span>
+
+		<span class="cat-links">
+			<span class="sep blog-categories entry-utility-prep entry-utility-prep-cat-links">Posted in</span>
+			<a href="http://preview.ait-themes.com/directory/wp1/category/uncategorized/" title="View all posts in Uncategorized" rel="category tag">Uncategorized</a>
+		</span>
+		<div class="comments-link">
+			<a href="http://preview.ait-themes.com/directory/wp1/we-love-to-travel/#comments" title="Comment on We Love to Travel">0</a>
+		</div>
+		<span class="edit-link"></span>
+	</div>
+
+	<div class="entry-content">
+		<p>Lorem ipsum dolor amet laboris consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.</p>
+<p> <a href="http://preview.ait-themes.com/directory/wp1/we-love-to-travel/#more-46" class="more-link">(more&hellip;)</a></p>
+
+	</div>
+
+</article><!-- /#post-46 -->
+
+	<nav id="nav-below">
+		
+		
+
+		<div class="nav-previous"></div>
+		<div class="nav-next"><a href="http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/bck_00-05.png/page/2/" ><span class="meta-nav">&rarr;</span> Older posts</a></div>
+	</nav>
+
+
+
+
+			</div><!-- /#content -->
+
+		</div><!-- /#primary -->
+
+
+				<div id="secondary" class="widget-area" role="complementary">
+<aside id="ait-directory-widget-3" class="widget widget_directory"><h3 class="widget-title"><span>REGISTER TO SUBMIT YOUR ITEMS</span></h3>			<div class="not-logged">
+			<div id="ait-login-tabs">
+				<ul>
+					<li><a class="login" href="#ait-dir-login-tab">Login</a></li>
+					<li class="active"><a class="register" href="#ait-dir-register-tab">Register</a></li>
+				</ul>
+
+				<!-- login -->
+				<div id="ait-dir-login-tab" style="display: none;">
+				<p></p>
+				
+		<form name="ait-login-form-widget" id="ait-login-form-widget" action="http://preview.ait-themes.com/directory/wp1/wp-login.php" method="post">
+			
+			<p class="login-username">
+				<label for="user_login">Username</label>
+				<input type="text" name="log" id="user_login" class="input" value="" size="20" />
+			</p>
+			<p class="login-password">
+				<label for="user_pass">Password</label>
+				<input type="password" name="pwd" id="user_pass" class="input" value="" size="20" />
+			</p>
+			
+			<p class="login-remember"><label><input name="rememberme" type="checkbox" id="rememberme" value="forever" /> Remember Me</label></p>
+			<p class="login-submit">
+				<input type="submit" name="wp-submit" id="wp-submit" class="button-primary" value="Log In" />
+				<input type="hidden" name="redirect_to" value="http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/bck_00-05.png" />
+			</p>
+			
+		</form>				</div>
+
+				<!-- register -->
+				<div id="ait-dir-register-tab">
+				<p></p>
+				<form method="post" action="http://preview.ait-themes.com/directory/wp1/?dir-register=register" class="wp-user-form">
+					<div class="register-username">
+						<label for="user_login">Username </label>
+						<input type="text" name="user_login" value="" size="20" id="user_login_register_widget" tabindex="101" />
+					</div>
+					<div class="register-email">
+						<label for="user_email">Email </label>
+						<input type="text" name="user_email" value="" size="25" id="user_email_register_widget" tabindex="102" />
+					</div>
+					<div class="register-role">
+						<label for="directory-role">Package </label>
+						<select name="directory-role">
+						<option value="directory_1" class="free">Directory Basic (Free)</option><option value="directory_2">Directory Standard (20 USD)</option><option value="directory_3">Directory Premium 1 (30 USD)</option><option value="directory_4">Directory Premium 2 (40 USD)</option><option value="directory_5">Directory Extra (50 USD)</option>						</select>
+					</div>
+					<div class="login-fields">
+												<input type="submit" name="user-submit" value="Sign up!" class="user-submit" tabindex="103" />
+						<input type="hidden" name="redirect_to" value="http://preview.ait-themes.com/directory/wp1" />
+						<input type="hidden" name="user-cookie" value="1" />
+					</div>
+				</form>
+				</div>
+
+				<script>
+				jQuery(document).ready(function($) {
+					var tabRegister = $('#ait-dir-register-tab'),
+						tabLogin =  $('#ait-dir-login-tab'),
+						linkLogin = $('#ait-login-tabs .login'),
+						linkRegister = $('#ait-login-tabs .register');
+					linkLogin.click(function(event) {
+						linkRegister.parent().removeClass('active');
+						tabRegister.hide();
+						linkLogin.parent().addClass('active');
+						tabLogin.show();
+						event.preventDefault();
+					});
+					linkRegister.click(function(event) {
+						linkLogin.parent().removeClass('active');
+						tabLogin.hide();
+						linkRegister.parent().addClass('active');
+						tabRegister.show();
+						event.preventDefault();
+					});
+					// init and change
+					var select = tabRegister.find('select[name=directory-role]'),
+						buttonSubmit = tabRegister.find('input[name=user-submit]'),
+						freeTitle = 'Sign up',
+						buyTitle = 'Buy with PayPal';
+					if(select.find('option:selected').hasClass('free')){
+						buttonSubmit.val(freeTitle);
+					} else {
+						buttonSubmit.val(buyTitle);
+					}
+					select.change(function(event) {
+						if(select.find('option:selected').hasClass('free')){
+							buttonSubmit.val(freeTitle);
+						} else {
+							buttonSubmit.val(buyTitle);
+						}
+					});
+				});
+				</script>
+
+			</div>
+			</div>
+			</aside><aside id="posts-widget-4" class="widget widget_posts"><h3 class="widget-title"><span>The Latest News</span></h3>        <div class="postitems-wrapper">
+                         <div class="postitem clearfix  with-thumbnail">
+                
+                    <div class="thumb-wrap fl">
+
+                        <a href="http://preview.ait-themes.com/directory/wp1/bon-appetit/" class="greyscale">
+
+														<img class="thumb" src="http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/tn.php?src=http://preview.ait-themes.com/directory/wp1/wp-content/uploads/bigstock-Pepperoni-Pizza-Slice-2471467.jpg&amp;w=50&amp;h=50" alt="" />
+                                                    </a>
+                    </div><!-- /.thumb-wrap -->
+                
+                <h3><a href="http://preview.ait-themes.com/directory/wp1/bon-appetit/">Bon Appetit!</a></h3>
+
+                <p><small>At vero eos et accusamus et iusto odio dignissimos</small></p>
+
+                            </div><!-- /.item -->
+                            <div class="postitem clearfix  with-thumbnail">
+                
+                    <div class="thumb-wrap fl">
+
+                        <a href="http://preview.ait-themes.com/directory/wp1/our-nyc-honeymoon/" class="greyscale">
+
+														<img class="thumb" src="http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/tn.php?src=http://preview.ait-themes.com/directory/wp1/wp-content/uploads/New-York-City-Manhattan.jpg&amp;w=50&amp;h=50" alt="" />
+                                                    </a>
+                    </div><!-- /.thumb-wrap -->
+                
+                <h3><a href="http://preview.ait-themes.com/directory/wp1/our-nyc-honeymoon/">Our Honeymoon</a></h3>
+
+                <p><small>Lorem ipsum dolor sit consectetur adipisicing elit</small></p>
+
+                            </div><!-- /.item -->
+                            <div class="postitem clearfix  last with-thumbnail">
+                
+                    <div class="thumb-wrap fl">
+
+                        <a href="http://preview.ait-themes.com/directory/wp1/first-golf-game-experience/" class="greyscale">
+
+														<img class="thumb" src="http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/tn.php?src=http://preview.ait-themes.com/directory/wp1/wp-content/uploads/bigstock-Ball-view-from-golf-course-26935142.jpg&amp;w=50&amp;h=50" alt="" />
+                                                    </a>
+                    </div><!-- /.thumb-wrap -->
+                
+                <h3><a href="http://preview.ait-themes.com/directory/wp1/first-golf-game-experience/">Golf Experience</a></h3>
+
+                <p><small>Lorem ipsum dolor sit consectetur adipisicing elit</small></p>
+
+                            </div><!-- /.item -->
+            </div></aside><aside id="calendar-2" class="widget widget_calendar"><div id="calendar_wrap"><table id="wp-calendar">
+	<caption>May 2014</caption>
+	<thead>
+	<tr>
+		<th scope="col" title="Monday">M</th>
+		<th scope="col" title="Tuesday">T</th>
+		<th scope="col" title="Wednesday">W</th>
+		<th scope="col" title="Thursday">T</th>
+		<th scope="col" title="Friday">F</th>
+		<th scope="col" title="Saturday">S</th>
+		<th scope="col" title="Sunday">S</th>
+	</tr>
+	</thead>
+
+	<tfoot>
+	<tr>
+		<td colspan="3" id="prev"><a href="http://preview.ait-themes.com/directory/wp1/2012/05/" title="View posts for May 2012">&laquo; May</a></td>
+		<td class="pad">&nbsp;</td>
+		<td colspan="3" id="next" class="pad">&nbsp;</td>
+	</tr>
+	</tfoot>
+
+	<tbody>
+	<tr>
+		<td colspan="3" class="pad">&nbsp;</td><td>1</td><td>2</td><td>3</td><td>4</td>
+	</tr>
+	<tr>
+		<td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td>
+	</tr>
+	<tr>
+		<td>12</td><td id="today">13</td><td>14</td><td>15</td><td>16</td><td>17</td><td>18</td>
+	</tr>
+	<tr>
+		<td>19</td><td>20</td><td>21</td><td>22</td><td>23</td><td>24</td><td>25</td>
+	</tr>
+	<tr>
+		<td>26</td><td>27</td><td>28</td><td>29</td><td>30</td><td>31</td>
+		<td class="pad" colspan="1">&nbsp;</td>
+	</tr>
+	</tbody>
+	</table></div></aside><aside id="flickr-widget-2" class="widget widget_flickr">
+				<h3 class="widget-title"><span>Flickr<span class="wd-icon"></span></span></h3>				<ul>
+		      <li class="thumb">
+        <a href="http://farm6.staticflickr.com/5130/5220403181_75006ee9b8_b.jpg" title="New Inspiration: Contemporary Kitchen With Rustic Design by TOYO" rel="prettyPhoto[flickr-widget]">
+          <img src="http://farm6.staticflickr.com/5130/5220403181_75006ee9b8_s.jpg" alt="" width="47" height="47" />
+        </a>
+      </li>
+            <li class="thumb">
+        <a href="http://farm6.staticflickr.com/5163/5219892841_5cfce2c4e1_b.jpg" title="New Inspiration: Natural Iron Log Holder   Rotzo by Civico Quattro" rel="prettyPhoto[flickr-widget]">
+          <img src="http://farm6.staticflickr.com/5163/5219892841_5cfce2c4e1_s.jpg" alt="" width="47" height="47" />
+        </a>
+      </li>
+            <li class="thumb">
+        <a href="http://farm5.staticflickr.com/4127/5219814117_090208f2ef_b.jpg" title="New Inspiration: Contemporary Winter Retreat with Fabulous Surrounding" rel="prettyPhoto[flickr-widget]">
+          <img src="http://farm5.staticflickr.com/4127/5219814117_090208f2ef_s.jpg" alt="" width="47" height="47" />
+        </a>
+      </li>
+            <li class="thumb">
+        <a href="http://farm6.staticflickr.com/5006/5216832313_18dbddf488_b.jpg" title="New Inspiration: Bathroom Sink With Integrated Storage Compartment   Split by Planit" rel="prettyPhoto[flickr-widget]">
+          <img src="http://farm6.staticflickr.com/5006/5216832313_18dbddf488_s.jpg" alt="" width="47" height="47" />
+        </a>
+      </li>
+            <li class="thumb">
+        <a href="http://farm6.staticflickr.com/5081/5216745929_9bd9a6d68e_b.jpg" title="New Inspiration: Modern and Elegant Grandfather Clock" rel="prettyPhoto[flickr-widget]">
+          <img src="http://farm6.staticflickr.com/5081/5216745929_9bd9a6d68e_s.jpg" alt="" width="47" height="47" />
+        </a>
+      </li>
+            <li class="thumb">
+        <a href="http://farm6.staticflickr.com/5083/5216312192_76115cbd19_b.jpg" title="New Inspiration: Remarkably Artistic Lighting Designs" rel="prettyPhoto[flickr-widget]">
+          <img src="http://farm6.staticflickr.com/5083/5216312192_76115cbd19_s.jpg" alt="" width="47" height="47" />
+        </a>
+      </li>
+            <li class="thumb">
+        <a href="http://farm6.staticflickr.com/5003/5211097367_fd0aff6929_b.jpg" title="New Inspiration: Modern fireplace design for your living areas" rel="prettyPhoto[flickr-widget]">
+          <img src="http://farm6.staticflickr.com/5003/5211097367_fd0aff6929_s.jpg" alt="" width="47" height="47" />
+        </a>
+      </li>
+            <li class="thumb">
+        <a href="http://farm6.staticflickr.com/5050/5210616993_a75a5d4bc1_b.jpg" title="New Inspiration: Beautiful Roof Gardens and Landscape Designs" rel="prettyPhoto[flickr-widget]">
+          <img src="http://farm6.staticflickr.com/5050/5210616993_a75a5d4bc1_s.jpg" alt="" width="47" height="47" />
+        </a>
+      </li>
+          </ul>
+    </aside><aside id="search-2" class="widget widget_search"><form role="search" method="get" id="searchform" class="searchform" action="http://preview.ait-themes.com/directory/wp1/">
+				<div>
+					<label class="screen-reader-text" for="s">Search for:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Search" />
+				</div>
+			</form></aside><aside id="text-7" class="widget widget_text"><h3 class="widget-title"><span>Advertisement</span></h3>			<div class="textwidget"><a href="http://themeforest.net/user/ait?ref=ait" title="Banner" target="_blank"><img src="http://preview.ait-themes.com/directory/wp1/wp-content/uploads/tf_125x125_v1.gif" alt="Banner" /></a>
+<a href="http://themeforest.net/user/ait?ref=ait" title="Banner" target="_blank"><img src="http://preview.ait-themes.com/directory/wp1/wp-content/uploads/gr_125x125_v1.gif" alt="Banner" /></a>
+<a href="http://themeforest.net/user/ait?ref=ait" title="Banner" target="_blank"><img src="http://preview.ait-themes.com/directory/wp1/wp-content/uploads/tutorials_125x125_v1.gif" alt="Banner" /></a>
+<a href="http://themeforest.net/user/ait?ref=ait" title="Banner" target="_blank"><img src="http://preview.ait-themes.com/directory/wp1/wp-content/uploads/cc_125x125_v1.gif" alt="Banner" /></a></div>
+		</aside>				</div>
+
+	</div>
+
+</div> <!-- /#main -->
+
+		<footer id="colophon" role="contentinfo">
+
+			<div id="supplementary" class="widgets defaultContentWidth">
+
+				<div id="footer-widgets" class="widget-area" role="complementary">
+<div id="posts-widget-3" class="box widget-container widget_posts"><div class="box-wrapper"><div class="title-border-bottom"><div class="title-border-top"><div class="title-decoration"></div><h2 class="widget-title">The Latest News</h2></div></div>        <div class="postitems-wrapper">
+                         <div class="postitem clearfix  with-thumbnail">
+                
+                    <div class="thumb-wrap fl">
+
+                        <a href="http://preview.ait-themes.com/directory/wp1/bon-appetit/" class="greyscale">
+
+														<img class="thumb" src="http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/tn.php?src=http://preview.ait-themes.com/directory/wp1/wp-content/uploads/bigstock-Pepperoni-Pizza-Slice-2471467.jpg&amp;w=44&amp;h=44" alt="" />
+                                                    </a>
+                    </div><!-- /.thumb-wrap -->
+                
+                <h3><a href="http://preview.ait-themes.com/directory/wp1/bon-appetit/">Bon Appetit!</a></h3>
+
+                <p><small>At vero eos et accusamus et iusto odio dignis</small></p>
+
+                            </div><!-- /.item -->
+                            <div class="postitem clearfix  last with-thumbnail">
+                
+                    <div class="thumb-wrap fl">
+
+                        <a href="http://preview.ait-themes.com/directory/wp1/our-nyc-honeymoon/" class="greyscale">
+
+														<img class="thumb" src="http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/tn.php?src=http://preview.ait-themes.com/directory/wp1/wp-content/uploads/New-York-City-Manhattan.jpg&amp;w=44&amp;h=44" alt="" />
+                                                    </a>
+                    </div><!-- /.thumb-wrap -->
+                
+                <h3><a href="http://preview.ait-themes.com/directory/wp1/our-nyc-honeymoon/">Our Honeymoon</a></h3>
+
+                <p><small>Lorem ipsum dolor sit consectetur adipisicing</small></p>
+
+                            </div><!-- /.item -->
+            </div></div></div><div id="recent-comments-4" class="box widget-container widget_recent_comments"><div class="box-wrapper"><div class="title-border-bottom"><div class="title-border-top"><div class="title-decoration"></div><h2 class="widget-title">Recent Comments</h2></div></div><ul id="recentcomments"><li class="recentcomments">admin on <a href="http://preview.ait-themes.com/directory/wp1/first-golf-game-experience/#comment-283">Golf Experience</a></li><li class="recentcomments">admin on <a href="http://preview.ait-themes.com/directory/wp1/item/car-license/#comment-282">Car AVA</a></li><li class="recentcomments">admin on <a href="http://preview.ait-themes.com/directory/wp1/our-nyc-honeymoon/#comment-278">Our Honeymoon</a></li><li class="recentcomments">admin on <a href="http://preview.ait-themes.com/directory/wp1/our-nyc-honeymoon/#comment-277">Our Honeymoon</a></li></ul></div></div>		<div id="recent-posts-4" class="box widget-container widget_recent_entries"><div class="box-wrapper">		<div class="title-border-bottom"><div class="title-border-top"><div class="title-decoration"></div><h2 class="widget-title">Recent Posts</h2></div></div>		<ul>
+					<li>
+				<a href="http://preview.ait-themes.com/directory/wp1/bon-appetit/">Bon Appetit!</a>
+						</li>
+					<li>
+				<a href="http://preview.ait-themes.com/directory/wp1/our-nyc-honeymoon/">Our Honeymoon</a>
+						</li>
+					<li>
+				<a href="http://preview.ait-themes.com/directory/wp1/first-golf-game-experience/">Golf Experience</a>
+						</li>
+					<li>
+				<a href="http://preview.ait-themes.com/directory/wp1/we-love-to-travel/">We Love to Travel</a>
+						</li>
+				</ul>
+		</div></div><div id="text-6" class="box widget-container widget_text"><div class="box-wrapper"><div class="title-border-bottom"><div class="title-border-top"><div class="title-decoration"></div><h2 class="widget-title">Custom text</h2></div></div>			<div class="textwidget">Lorem ipsum eu adipisicing nisi laboris exercitation commodo exercitation commodo occaecat Excepteur dolor nisi eu esse laborum qui fugiat esse veniam dolore do sit nisi anim ad culpa nisi adipisicing sint eu exercitation tempor veniam voluptate</div>
+		</div></div>				</div>
+
+			</div>
+
+<div id="site-generator" class="clearfix">
+	<div class="defaultContentWidth">
+		<div id="footer-text">
+			<strong>© 2013 Copyright by AIT.</strong> All rights reserved. Lorem ipsum dolor sit amet consecteur...
+		</div>
+<nav class="footer-menu"><ul id="menu-footer-menu" class="menu"><li id="menu-item-7788" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7788"><a href="http://preview.ait-themes.com/directory/wp1/">Home</a></li>
+<li id="menu-item-7787" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-7787"><a href="http://preview.ait-themes.com/directory/wp1/blog/">Blog</a></li>
+<li id="menu-item-7790" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7790"><a href="http://preview.ait-themes.com/directory/wp1/theme-features/">Theme Features</a></li>
+<li id="menu-item-7789" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7789"><a href="http://preview.ait-themes.com/directory/wp1/contact/">Contact Us</a></li>
+</ul></nav>	</div>
+</div>
+		</footer>
+
+	</div><!-- #page -->
+
+<script type='text/javascript' src='http://preview.ait-themes.com/directory/wp1/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.50.0-2014.02.05'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/preview.ait-themes.com\/directory\/wp1\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ...","cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://preview.ait-themes.com/directory/wp1/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.7.2'></script>
+<script type='text/javascript' src='http://preview.ait-themes.com/directory/wp1/wp-includes/js/jquery/ui/jquery.ui.core.min.js?ver=1.10.3'></script>
+<script type='text/javascript' src='http://preview.ait-themes.com/directory/wp1/wp-includes/js/jquery/ui/jquery.ui.widget.min.js?ver=1.10.3'></script>
+<script type='text/javascript' src='http://preview.ait-themes.com/directory/wp1/wp-includes/js/jquery/ui/jquery.ui.tabs.min.js?ver=1.10.3'></script>
+<script type='text/javascript' src='http://preview.ait-themes.com/directory/wp1/wp-includes/js/jquery/ui/jquery.ui.accordion.min.js?ver=1.10.3'></script>
+<script type='text/javascript' src='http://preview.ait-themes.com/directory/wp1/wp-includes/js/jquery/ui/jquery.ui.position.min.js?ver=1.10.3'></script>
+<script type='text/javascript' src='http://preview.ait-themes.com/directory/wp1/wp-includes/js/jquery/ui/jquery.ui.menu.min.js?ver=1.10.3'></script>
+<script type='text/javascript' src='http://preview.ait-themes.com/directory/wp1/wp-includes/js/jquery/ui/jquery.ui.autocomplete.min.js?ver=1.10.3'></script>
+<script type='text/javascript' src='http://preview.ait-themes.com/directory/wp1/wp-includes/js/jquery/ui/jquery.ui.mouse.min.js?ver=1.10.3'></script>
+<script type='text/javascript' src='http://preview.ait-themes.com/directory/wp1/wp-includes/js/jquery/ui/jquery.ui.slider.min.js?ver=1.10.3'></script>
+
+	
+<!-- Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-12958851-42', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- End Google Analytics -->
+			
+
+</body>
+</html>

@@ -172,7 +172,7 @@ ul.social-icons {
     line-height: 0;
 }
 #branding {
-    background: url(http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/header-bg_pattern.png) repeat #fff;
+    background: url(../images/header-bg_pattern.png) repeat #fff;
     box-shadow: rgba(0, 0, 0, 0.0980392) 0px 1px 0px;
     position: relative;
     z-index: 1;
@@ -215,7 +215,7 @@ ul.social-icons {
     padding-bottom: 1px;
 }
 #access ul > li > a.has-submenu {
-    background: url(http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/has-submenu-down.png) 100% 50% no-repeat;
+    background: url(../images/has-submenu-down.png) 100% 50% no-repeat;
     padding-right: 15px;
 }
 #access ul ul {
@@ -288,14 +288,14 @@ select {
     padding-bottom: 1px;
 }
 #access ul > li > a.has-submenu {
-    background: url('http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/has-submenu-down.png') no-repeat right center;
+    background: url('../images/has-submenu-down.png') no-repeat right center;
     padding-right: 15px;
 }
 #access li:hover ul {
     display: block;
 }
 #directory-search {
-    background: #308ecf url('http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/search_bg_pattern.png') repeat;
+    background: #308ecf url('../images/search_bg_pattern.png') repeat;
     border-top: 1px solid #1e5b85;
     border-bottom: 1px solid #1e5b85;
     border-top: 1px solid #0a5c93;
@@ -330,7 +330,7 @@ select {
 }
 #dir-holder input {
     display: block;
-    background: url('http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/search_input-loupe.png') no-repeat 13px center;
+    background: url('../images/search_input-loupe.png') no-repeat 13px center;
     font-size: 13px;
     height: 35px;
     line-height: 1;
@@ -348,11 +348,11 @@ select {
     width: 260px;
 }
 #dir-search-button input{
-    background:#73ac4b url('http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/search_button-loupe.png') no-repeat 92px center;
-    background:-moz-linear-gradient(#73ac4b,#6ca146) url('http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/search_button-loupe.png') no-repeat 92px center;
-    background:-o-linear-gradient(#73ac4b,#6ca146) url('http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/search_button-loupe.png') no-repeat 92px center;
-    background:-webkit-gradient(linear,0% 0%,0% 100%,from(#73ac4b),to(#6ca146)) url('http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/search_button-loupe.png') no-repeat 92px center;
-    background:-webkit-linear-gradient(#73ac4b,#6ca146) url('http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/search_button-loupe.png') no-repeat 92px center;
+    background:#73ac4b url('../images/search_button-loupe.png') no-repeat 92px center;
+    background:-moz-linear-gradient(#73ac4b,#6ca146) url('../images/search_button-loupe.png') no-repeat 92px center;
+    background:-o-linear-gradient(#73ac4b,#6ca146) url('../images/search_button-loupe.png') no-repeat 92px center;
+    background:-webkit-gradient(linear,0% 0%,0% 100%,from(#73ac4b),to(#6ca146)) url('../images/search_button-loupe.png') no-repeat 92px center;
+    background:-webkit-linear-gradient(#73ac4b,#6ca146) url('../images/search_button-loupe.png') no-repeat 92px center;
     border:1px solid #5b883c;
     box-shadow:0 1px 0 #88bc64 inset,0 1px 0 #46692e;
     border-radius:40px;
@@ -367,11 +367,11 @@ select {
     width:261px;
 }
 #dir-search-button input:hover{
-    background:#6ca146 url('http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/search_button-loupe.png') no-repeat 92px center;
-    background:-moz-linear-gradient(#73ac4b,#60903f) url('http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/search_button-loupe.png') no-repeat 92px center;
-    background:-o-linear-gradient(#73ac4b,#60903f) url('http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/search_button-loupe.png') no-repeat 92px center;
-    background:-webkit-gradient(linear,0% 0%,0% 100%,from(#73ac4b),to(#60903f)) url('http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/search_button-loupe.png') no-repeat 92px center;
-    background:-webkit-linear-gradient(#73ac4b,#60903f) url('http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/search_button-loupe.png') no-repeat 92px center;
+    background:#6ca146 url('../images/search_button-loupe.png') no-repeat 92px center;
+    background:-moz-linear-gradient(#73ac4b,#60903f) url('../images/search_button-loupe.png') no-repeat 92px center;
+    background:-o-linear-gradient(#73ac4b,#60903f) url('../images/search_button-loupe.png') no-repeat 92px center;
+    background:-webkit-gradient(linear,0% 0%,0% 100%,from(#73ac4b),to(#60903f)) url('../images/search_button-loupe.png') no-repeat 92px center;
+    background:-webkit-linear-gradient(#73ac4b,#60903f) url('../images/search_button-loupe.png') no-repeat 92px center;
     border:1px solid #5b883c;
     box-shadow:0 1px 0 #96c376 inset,0 1px 0 #3a5726;
     cursor:pointer;
@@ -429,7 +429,7 @@ input#s {
     background: none;
 }
 #searchform #searchsubmit, #search-form .searchsubmit {
-    background: url('http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/search.png') center no-repeat;
+    background: url('../images/search.png') center no-repeat;
     border-left: 1px solid #cfcfcf;
     border-width: 0 0 0 1px;
     cursor: pointer;
@@ -444,7 +444,7 @@ input#s {
     font-family: 'Oswald';
     font-size: 26px;
     font-weight: bold;
-    background: url('http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/title-striped-bg.png') repeat-x 0 15px;
+    background: url('../images/title-striped-bg.png') repeat-x 0 15px;
     line-height: 40px;
     margin: 0 0 10px 0;
     text-align: center;
@@ -526,7 +526,7 @@ ul.items li {
     border-image-repeat: initial;
 }
 hr {
-    background: url(http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/title-striped-bg.png) repeat-x;
+    background: url(../images/title-striped-bg.png) repeat-x;
     border: 0px;
     border-image-source: initial;
     border-image-slice: initial;
@@ -553,7 +553,7 @@ hr {
     padding: 0 0 20px 50px;
 }
 .characters {
-    background: url('http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/item-icon-adress.png') no-repeat;
+    background: url('../images/item-icon-adress.png') no-repeat;
 }
 table.blue {
     background: rgb(245, 245, 245);
@@ -579,12 +579,12 @@ table.blue thead th {
 table.blue tbody th {
     font-weight: bold;
     padding: 2px 6px;
-    background: url(http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/bck_00-10.png);
+    background: url(../images/bck_00-10.png);
     color: rgb(34, 34, 34);
 }
 table.blue td {
     padding: 2px 6px;
-    background: url(http://preview.ait-themes.com/directory/wp1/wp-content/themes/directory/design/img/bck_00-05.png);
+    background: url(../images/bck_00-05.png);
 }
 #entity-connections {
     width: 589px;
